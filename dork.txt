@@ -1,0 +1,2580 @@
+Celebrity 
+{
+  "total": 3,
+  "result": [
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:22.089095",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "MOEugqJ4T4KirtQulG-Nhg",
+      "updated_at": "2020-01-05 13:42:22.089095",
+      "url": "https://api.chucknorris.io/jokes/MOEugqJ4T4KirtQulG-Nhg",
+      "value": "Celebrities die in threes because for Chuck Norris, killing one celebrity is never enough."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:24.40636",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "mCZSvjsVTyaJHjfAooZwSQ",
+      "updated_at": "2020-01-05 13:42:24.40636",
+      "url": "https://api.chucknorris.io/jokes/mCZSvjsVTyaJHjfAooZwSQ",
+      "value": "Chuck Norris won on a special celebrity episode of America's Got Talent by playing \"In-A-Gadda-Da-Vida\" with a pair of cymbals."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:29.569033",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "lhNnigJgTDOdqxnvAFYjPQ",
+      "updated_at": "2020-01-05 13:42:29.569033",
+      "url": "https://api.chucknorris.io/jokes/lhNnigJgTDOdqxnvAFYjPQ",
+      "value": "Chuck Norris recently won the celebrity 'Dancing with the Stars' TV competition with his rendition of a Rottweiler dragging is ass across the carpet."
+    }
+  ]
+}
+
+Dev
+{
+  "total": 52,
+  "result": [
+    {
+      "categories": [
+        "explicit"
+      ],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "3EOemsGMSEKttDnddHyi9A",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/3EOemsGMSEKttDnddHyi9A",
+      "value": "Other than having experienced an actual sexual encounter with Chuck Norris, the only thing that can possibly match & satisfy women is a mail order device aptly called an Anal Intruder which exhibits a Roto Rooter twirling action."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "grihcfg8TcaEzBSF7w6gSQ",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/grihcfg8TcaEzBSF7w6gSQ",
+      "value": "Chuck Norris briefly lost his erection the other day, the destruction in chile was devastating"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "kscxjliptieuza9q5i5azg",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/kscxjliptieuza9q5i5azg",
+      "value": "TNT was originally developed by Chuck Norris to cure indigestion."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:19.104863",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "D1HKI2A-R0uEPA5j3rIJfw",
+      "updated_at": "2020-01-05 13:42:19.104863",
+      "url": "https://api.chucknorris.io/jokes/D1HKI2A-R0uEPA5j3rIJfw",
+      "value": "Captain Planet once told Chuck Norris that he had control over all the elements - earth, water, wind and fire. Chuck Norris then drowned him in fire and blew him six feet under, thereby utilizing all four elements to move the good captain asunder. (It should be noted here that Chuck Norris, for the first time ever, deviated from using his signature roundhouse kick.)"
+    },
+    {
+      "categories": [
+        "dev"
+      ],
+      "created_at": "2020-01-05 13:42:19.324003",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "p4tviyvmrbkcjbqsydybuq",
+      "updated_at": "2020-01-05 13:42:19.324003",
+      "url": "https://api.chucknorris.io/jokes/p4tviyvmrbkcjbqsydybuq",
+      "value": "Chuck Norris can retrieve anything from /dev/null."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:19.897976",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "1cDHrtNTTESFtVEyPXvvaA",
+      "updated_at": "2020-01-05 13:42:19.897976",
+      "url": "https://api.chucknorris.io/jokes/1cDHrtNTTESFtVEyPXvvaA",
+      "value": "Chuck Norris can tgjiethgrvljhjdhntsrndkhjdkhkfghbjrdsnhwedjkwbnjdfss HAAAAAAAAAAAAAAAAAACK! STOP! PLEASE! I BEG UH He died. I knew what he was going to say. It's super secret. if anyone knows, they die. Oh, and he was using this software called \"Dragon\": it's a speech-to-text device. - Chuck Norris"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:19.897976",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "xTa7hyGYRqOYyzBO1sjJLg",
+      "updated_at": "2020-01-05 13:42:19.897976",
+      "url": "https://api.chucknorris.io/jokes/xTa7hyGYRqOYyzBO1sjJLg",
+      "value": "The video game DOOM is loosly based of the time when the devil borrowed two bucks from Chuck Norris and forgot to pay him back."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:19.897976",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "e3LIzf2VQiSTWHqYqT5xXw",
+      "updated_at": "2020-01-05 13:42:19.897976",
+      "url": "https://api.chucknorris.io/jokes/e3LIzf2VQiSTWHqYqT5xXw",
+      "value": "I made an error for 5720. The world will not end, to probably everyone's relief. Here is the corrected version: Chuck Norris can tgjiethgrvljhjdhntsrndkhjdkhkfghbjrdsnhwedjkwbnjdfss HAAAAAAAAAAAAAAAAAACK! STOP! PLEASE! I BEG UH He died. I knew what he was going to say. It's super secret. If anyone knows, they die. Oh, and he was using this software called \"Dragon\": it's a speech-to-text device. - Chuck Norris"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:19.897976",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "KOCD3gMQQK68ffgcU1DhWA",
+      "updated_at": "2020-01-05 13:42:19.897976",
+      "url": "https://api.chucknorris.io/jokes/KOCD3gMQQK68ffgcU1DhWA",
+      "value": "when the devil went down to georgia, he wasn't looking for a soul to steal, Chuck Norris got in and took over hell before anyone could tell him to get the fuck out."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:19.897976",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "IhHm2gv8SMueuFa1LmM0jQ",
+      "updated_at": "2020-01-05 13:42:19.897976",
+      "url": "https://api.chucknorris.io/jokes/IhHm2gv8SMueuFa1LmM0jQ",
+      "value": "Chuck Norris once developed a severe case of upset stomach after eating an entire live rhino. He had to pull the pin and swallow a live hand grenade just to be able to burp."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:20.262289",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "tK4iNhIMSF-wPvBVoUBrTw",
+      "updated_at": "2020-01-05 13:42:20.262289",
+      "url": "https://api.chucknorris.io/jokes/tK4iNhIMSF-wPvBVoUBrTw",
+      "value": "The Sherman tank was originaly called the Norris tank until Chuck Norris decided it wasn't tough enough to be associated with him. The Army, for fear of Chuck Norris, renamed the tank and promised to develop a weapon more fitting of his name. To date, no weapon created has been badass enough to be named after Chuck Norris."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:20.262289",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "rdoqnrZGS26bPfu8gJ6kNg",
+      "updated_at": "2020-01-05 13:42:20.262289",
+      "url": "https://api.chucknorris.io/jokes/rdoqnrZGS26bPfu8gJ6kNg",
+      "value": "The Van Halen song \"Runnin' With The Devil\" was originally called \"Running Screaming From Chuck Norris\"."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:20.841843",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "NAJfgIRTQt2aAeIJoTVliw",
+      "updated_at": "2020-01-05 13:42:20.841843",
+      "url": "https://api.chucknorris.io/jokes/NAJfgIRTQt2aAeIJoTVliw",
+      "value": "The devil has a Chuck Norris-may-care attitude."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:21.455187",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "ulctbZPiTu6mkhItuoNwTw",
+      "updated_at": "2020-01-05 13:42:21.455187",
+      "url": "https://api.chucknorris.io/jokes/ulctbZPiTu6mkhItuoNwTw",
+      "value": "Chuck Norris oncd spent his entire weekend eating Duracell Batteries. He did this so that on Monday he could crap out a fire-developed tank round to fire at the short bus that drives by his house. He then give the bus a roundhouse kick to the face!"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:21.795084",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "Z_iPV61QSta15P-hBu10Mw",
+      "updated_at": "2020-01-05 13:42:21.795084",
+      "url": "https://api.chucknorris.io/jokes/Z_iPV61QSta15P-hBu10Mw",
+      "value": "When Chuck Norris was a kid they used to call him \"Chucky the devil's doll\""
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:21.795084",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "niggAcouTRigHgOi_gBX8g",
+      "updated_at": "2020-01-05 13:42:21.795084",
+      "url": "https://api.chucknorris.io/jokes/niggAcouTRigHgOi_gBX8g",
+      "value": "Chuck Norris is in everyone of the devil's nightmares"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:21.795084",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "4zFtg6xcQZ2d0GBwN1Pp4Q",
+      "updated_at": "2020-01-05 13:42:21.795084",
+      "url": "https://api.chucknorris.io/jokes/4zFtg6xcQZ2d0GBwN1Pp4Q",
+      "value": "Little known fact: Chuck Norris deviginized Mary LONG before Joseph ever met her."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:21.795084",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "Jy-QrIsUQDuwG9uwAmu8rA",
+      "updated_at": "2020-01-05 13:42:21.795084",
+      "url": "https://api.chucknorris.io/jokes/Jy-QrIsUQDuwG9uwAmu8rA",
+      "value": "When Chuck Norris was 8, he and his friend, Freddy both got pets. Freddy got a hamster and Chuck got a Tasmanian Devil."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:22.089095",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "v5bjnMaRTk2dW3lCGAfkVQ",
+      "updated_at": "2020-01-05 13:42:22.089095",
+      "url": "https://api.chucknorris.io/jokes/v5bjnMaRTk2dW3lCGAfkVQ",
+      "value": "Ok im back. Chuck Norris was secretly included for Mortal Kombat X. The developers then changed their minds and removed him because 1 hit from Chuck Norris= a fatality."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:22.701402",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "InbZFgfnQJa_vXsmIS6CeQ",
+      "updated_at": "2020-01-05 13:42:22.701402",
+      "url": "https://api.chucknorris.io/jokes/InbZFgfnQJa_vXsmIS6CeQ",
+      "value": "Particle physicists have finally developed a new atom smasher. It is called Chuck Norris's fist."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:22.701402",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "XE4Wm5v8RAmLeFUl-tkWXQ",
+      "updated_at": "2020-01-05 13:42:22.701402",
+      "url": "https://api.chucknorris.io/jokes/XE4Wm5v8RAmLeFUl-tkWXQ",
+      "value": "Chuck Norris uses a live Tasmanian Devil to shine his boots."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:22.980058",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "vfEweSdISi2xwuw8tucCnw",
+      "updated_at": "2020-01-05 13:42:22.980058",
+      "url": "https://api.chucknorris.io/jokes/vfEweSdISi2xwuw8tucCnw",
+      "value": "Chuck Norris invented the A-Team so that at some point in time he could devour them and become four times as awesome."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:23.484083",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "8jXeBbRMSbKwN-Rt097h0A",
+      "updated_at": "2020-01-05 13:42:23.484083",
+      "url": "https://api.chucknorris.io/jokes/8jXeBbRMSbKwN-Rt097h0A",
+      "value": "Chuck Norris did offer to dance with the Devil on the pale moonlight but the Devil said \"not a chance, not with Chuck Norris\"!"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:23.880601",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "VZg8Mxg8TGeEc0qq3u4GOA",
+      "updated_at": "2020-01-05 13:42:23.880601",
+      "url": "https://api.chucknorris.io/jokes/VZg8Mxg8TGeEc0qq3u4GOA",
+      "value": "Once a player found Chuck Norris on super smash bros for 3DS. He was instantly beaten from Chuck Norris when the Challenger round started. Developers of super smash bros said that the Chuck Norris guy was a easter egg. It was removed for being too powerful after 2 days."
+    },
+    {
+      "categories": [
+        "explicit"
+      ],
+      "created_at": "2020-01-05 13:42:24.142371",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "F_VK2CmlSyKpyMX2XXdgWg",
+      "updated_at": "2020-01-05 13:42:24.142371",
+      "url": "https://api.chucknorris.io/jokes/F_VK2CmlSyKpyMX2XXdgWg",
+      "value": "Women who think about having sex with Chuck Norris develope Blue Waffle Disease."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:24.696555",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "yrRKrrzEQQqvczPYdL2aZw",
+      "updated_at": "2020-01-05 13:42:24.696555",
+      "url": "https://api.chucknorris.io/jokes/yrRKrrzEQQqvczPYdL2aZw",
+      "value": "Chuck Norris got a new pet for his birthday. So far, he has taught his Tasmanian Devil to fetch, roll over and sit."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:24.696555",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "wWUy5MvDRnO8h8YJioALnQ",
+      "updated_at": "2020-01-05 13:42:24.696555",
+      "url": "https://api.chucknorris.io/jokes/wWUy5MvDRnO8h8YJioALnQ",
+      "value": "Chuck Norris would never swing from a chandoleer. He would devour it in one jump."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.099703",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "rjncRmv1RM2QwkEezIchKg",
+      "updated_at": "2020-01-05 13:42:25.099703",
+      "url": "https://api.chucknorris.io/jokes/rjncRmv1RM2QwkEezIchKg",
+      "value": "Birds developed wings to fly away from Chuck Norris. Not to be outdone, he invented bird flu."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.099703",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "qEnWlsQIQ7q_j1Rl3m3kdg",
+      "updated_at": "2020-01-05 13:42:25.099703",
+      "url": "https://api.chucknorris.io/jokes/qEnWlsQIQ7q_j1Rl3m3kdg",
+      "value": "Chuck Norris once sold his soul to the devil in exchange for the power of the roundhouse kick. After signing the contract, chuck quickly roundhouse kicked the devil in the face knocking him unconscious long enough to take his soul back. The devil, who appreciates irony, had a good laugh about it. Now they meet in Indiana every second Tuesday of the month to play poker"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.099703",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "vSTlm5PCSJCA3BYMSADlFQ",
+      "updated_at": "2020-01-05 13:42:25.099703",
+      "url": "https://api.chucknorris.io/jokes/vSTlm5PCSJCA3BYMSADlFQ",
+      "value": "Steve Jobs gave a free iPad to Chuck Norris as a token of goodwill. Chuck Norris instantly rammed the device up Jobs' anus for insulting his unquestionable masculinity."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.099703",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "VH4H6LVvTjyJKNRAoqABmA",
+      "updated_at": "2020-01-05 13:42:25.099703",
+      "url": "https://api.chucknorris.io/jokes/VH4H6LVvTjyJKNRAoqABmA",
+      "value": "Taylor Swift used to be named Taylor Lethargic before Chuck Norris devirginised her."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.352697",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "LV1xoMFWSjeiABgpU6IV6A",
+      "updated_at": "2020-01-05 13:42:25.352697",
+      "url": "https://api.chucknorris.io/jokes/LV1xoMFWSjeiABgpU6IV6A",
+      "value": "The hole in the ozone layer only developed because Chuck Norris decided a darker tan would look good on him."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.628594",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "hU2UZbwZQIqyFgZsgKmSQA",
+      "updated_at": "2020-01-05 13:42:25.628594",
+      "url": "https://api.chucknorris.io/jokes/hU2UZbwZQIqyFgZsgKmSQA",
+      "value": "Chuck Norris has a devil-may-be-terrified-of-me attitude."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.628594",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "7wiGvsSuSS6F3fNB9IWNLA",
+      "updated_at": "2020-01-05 13:42:25.628594",
+      "url": "https://api.chucknorris.io/jokes/7wiGvsSuSS6F3fNB9IWNLA",
+      "value": "Muhammad Ali developed Parkinsons disease after he received a roundhouse from Chuck Norris"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.628594",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "r5PIQmnnSdiMkrZ8YaPEOQ",
+      "updated_at": "2020-01-05 13:42:25.628594",
+      "url": "https://api.chucknorris.io/jokes/r5PIQmnnSdiMkrZ8YaPEOQ",
+      "value": "Michael Jackson developed the moonwalk by studying footage of Chuck Norris wiping his feet."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:26.194739",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "tR81kk9zS9O8gvtxmdhK1A",
+      "updated_at": "2020-01-05 13:42:26.194739",
+      "url": "https://api.chucknorris.io/jokes/tR81kk9zS9O8gvtxmdhK1A",
+      "value": "The Rolling Stones would have disbanded less than six months after they formed if Chuck Norris hadn't attended one of their early gigs and jumped onstage to play a devastatingly awesome guitar solo, thus terrifying them into staying together for decades. (Oh, and he also pimp-slapped Mick Jagger in the lips, permanently disfigureing him.)"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:26.447675",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "-P79dKeTTK20Kaq4I5untg",
+      "updated_at": "2020-01-05 13:42:26.447675",
+      "url": "https://api.chucknorris.io/jokes/-P79dKeTTK20Kaq4I5untg",
+      "value": "Chuck Norris went down to the crossroads just to pimp-slap the devil."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:26.766831",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "lgqeSksOTY-E0uIEd7ABUQ",
+      "updated_at": "2020-01-05 13:42:26.766831",
+      "url": "https://api.chucknorris.io/jokes/lgqeSksOTY-E0uIEd7ABUQ",
+      "value": "Women can develope a case of vaginal warts by simply staring at Chuck Norris' crotch."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:26.991637",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "TVnSVh4SRlaYXAl4xk9UYg",
+      "updated_at": "2020-01-05 13:42:26.991637",
+      "url": "https://api.chucknorris.io/jokes/TVnSVh4SRlaYXAl4xk9UYg",
+      "value": "In 1957 while in Elementary school Chuck Norris drew a sketch of a square apparatus with astonishing details. 50 years later, Apple used that same sketch to design and develop what we know now as... the ipad."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.143137",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "KP_IIt3pSjOmguGs2mZz0w",
+      "updated_at": "2020-01-05 13:42:28.143137",
+      "url": "https://api.chucknorris.io/jokes/KP_IIt3pSjOmguGs2mZz0w",
+      "value": "The U.S. Coast Guard has recognized Chuck Norris' gonads and nut sack as a legal personal floatation device."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.143137",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "maAWglMPTPOp1tqZXleV7A",
+      "updated_at": "2020-01-05 13:42:28.143137",
+      "url": "https://api.chucknorris.io/jokes/maAWglMPTPOp1tqZXleV7A",
+      "value": "Chuck Norris sold his soul to the devil for his rugged good looks and unparalleled martial arts ability. Shortly after the transaction was finalized, Chuck roundhouse kicked the devil in the face and took his soul back. The devil, who appreciates irony, couldn't stay mad and admitted he should have seen it coming. They now play poker every second Wednesday of the month."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.143137",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "EGX-zVEzRkS6AlOveV6xFQ",
+      "updated_at": "2020-01-05 13:42:28.143137",
+      "url": "https://api.chucknorris.io/jokes/EGX-zVEzRkS6AlOveV6xFQ",
+      "value": "Sir Issac Newton developed his groundbreaking theories on gravitation after he recovered from being almost killed by an apple thrown by Chuck Norris."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.143137",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "omejgYO-RAGf9XVDWkVfhA",
+      "updated_at": "2020-01-05 13:42:28.143137",
+      "url": "https://api.chucknorris.io/jokes/omejgYO-RAGf9XVDWkVfhA",
+      "value": "When Chuck Norris wa born 3 nurses and 2 doctors were killed when he shot them with 2 MPK-5's he had developed while in the womb."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.143137",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "2Bu4jfTDSvKRYUnbaW2pMw",
+      "updated_at": "2020-01-05 13:42:28.143137",
+      "url": "https://api.chucknorris.io/jokes/2Bu4jfTDSvKRYUnbaW2pMw",
+      "value": "Chuck Norris won the National Pie Eating Contest by devoring 168 hotdogs in less than 10 minutes."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.420821",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "a42l7tLFQmeQVrWDeE1hfg",
+      "updated_at": "2020-01-05 13:42:28.420821",
+      "url": "https://api.chucknorris.io/jokes/a42l7tLFQmeQVrWDeE1hfg",
+      "value": "Johnson & Johnson spent $3.5 million in developing Band-Aids for Chuck Norris which are made of lead based Kevlar lined with an asbestos absorbent pad and adhesive bands coated with Super-Glue. However, Chuck Norris, impervious to injury, will never need to use one."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.420821",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "aFy-o4b0RQSjBybiP8RAIQ",
+      "updated_at": "2020-01-05 13:42:28.420821",
+      "url": "https://api.chucknorris.io/jokes/aFy-o4b0RQSjBybiP8RAIQ",
+      "value": "Tigers developed stripes as an evolutionary strategy. Chuck Norris made them an endangered species anyway."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.984661",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "-3CjPqg6SaKvAZBLgTp_6w",
+      "updated_at": "2020-01-05 13:42:28.984661",
+      "url": "https://api.chucknorris.io/jokes/-3CjPqg6SaKvAZBLgTp_6w",
+      "value": "If you play Stairway to heaven backwards you hear a satanic message. If you play the theme song to Walker,Texas Ranger backwards you hear Chuck Norris kicking the Devils ass."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.984661",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "U42BlItTRSiD6EPoTlIBXA",
+      "updated_at": "2020-01-05 13:42:28.984661",
+      "url": "https://api.chucknorris.io/jokes/U42BlItTRSiD6EPoTlIBXA",
+      "value": "Chuck Norris isn't a cannibal, because he is actually a superior species. So next time he devours a family member, don't be upset, just remember this is just the beautiful cycle of nature."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:29.296379",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "UJeUN80PQl65CCrwxhstaQ",
+      "updated_at": "2020-01-05 13:42:29.296379",
+      "url": "https://api.chucknorris.io/jokes/UJeUN80PQl65CCrwxhstaQ",
+      "value": "There is no angel upon Chuck Norris' shoulder... the devil sits there. His other shoulder is where he rests the bazooka"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:29.569033",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "KYTvMG11SlO5BgkKVqrVbQ",
+      "updated_at": "2020-01-05 13:42:29.569033",
+      "url": "https://api.chucknorris.io/jokes/KYTvMG11SlO5BgkKVqrVbQ",
+      "value": "Chuck Norris once won a non-glitchy, non-buggy edition of vanilla Minecraft before he even got the \"Getting Wood\" achievement. It was version Indev 0.30. Only Chuck Norris can play Minecraft Indev 0.30. For everyone else, the oldest Minecraft Indev version is 0.31."
+    },
+    {
+      "categories": [
+        "movie"
+      ],
+      "created_at": "2020-01-05 13:42:29.855523",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "bEfuO4msQ12ub8S1ZKJqvw",
+      "updated_at": "2020-01-05 13:42:29.855523",
+      "url": "https://api.chucknorris.io/jokes/bEfuO4msQ12ub8S1ZKJqvw",
+      "value": "In the director's cut of \"The End of Days,\" Arnold Schwarzenegger is fighting a losing battle with the Devil until he prays to a stained glass window of Chuck Norris putting on a pair of jeans. They had to use CGI to superimpose a crucified Jesus for the theatrical release."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:30.480041",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "tExOLgwDSOKUA_W3GcxFnQ",
+      "updated_at": "2020-01-05 13:42:30.480041",
+      "url": "https://api.chucknorris.io/jokes/tExOLgwDSOKUA_W3GcxFnQ",
+      "value": "Chuck Norris obtained his rugged good looks and martial art skills when he made a deal with the devil. once he received both gifts from satan Chuck Norris delivered a roundhouse kick to the devils skull and took his soul back. the devil who appreciated irony laughed at the attack. they now play golf every third tuesday of the month."
+    }
+  ]
+}
+
+Fasion
+{
+  "total": 4,
+  "result": [
+    {
+      "categories": [
+        "fashion"
+      ],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "0wdewlp2tz-mt_upesvrjw",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/0wdewlp2tz-mt_upesvrjw",
+      "value": "Chuck Norris does not follow fashion trends, they follow him. But then he turns around and kicks their ass. Nobody follows Chuck Norris."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:20.841843",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "1Q_o4vHHQPqJibBO2OnhlQ",
+      "updated_at": "2020-01-05 13:42:20.841843",
+      "url": "https://api.chucknorris.io/jokes/1Q_o4vHHQPqJibBO2OnhlQ",
+      "value": "Sadly, Chuck Norris' famous last words were: \"Watch this\". \"Watch\" meaning, \"please kindly pay attention and observe\". \"This\" meaning, \"my snakeskin boot striking your skull thereby splattering your brains upon the ceiling, wall, hallway and finely fashioned Berber carpet\"."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:21.179347",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "X5AMMHQKTnSdIwIBjYze1A",
+      "updated_at": "2020-01-05 13:42:21.179347",
+      "url": "https://api.chucknorris.io/jokes/X5AMMHQKTnSdIwIBjYze1A",
+      "value": "The Batmobile was fashioned after Chuck Norris' pimpmobile."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.352697",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "o30pbm-KR8yjZHKVP7TWvA",
+      "updated_at": "2020-01-05 13:42:25.352697",
+      "url": "https://api.chucknorris.io/jokes/o30pbm-KR8yjZHKVP7TWvA",
+      "value": "A meme ( /&#712;mi&#720;m/; MEEM) is \"an idea, behavior or style that spreads from person to person within a culture.\" A meme acts as a unit for carrying cultural ideas, symbols or practices, which can be transmitted from one mind to another through writing, speech, gestures, rituals or other imitable phenomena. Supporters of the concept regard memes as cultural analogues to genes in that they self-replicate, mutate and respond to selective pressures. The word meme is a shortening (modeled on gene) of mimeme (from Ancient Greek m&#299;m&#275;ma, \"something imitated\", from mimeisthai, \"to imitate\", from mimos \"mime\") and it was coined by the British evolutionary biologist Richard Dawkins in The Selfish Gene (1976) as a concept for discussion of evolutionary principles in explaining the spread of ideas and cultural phenomena. Examples of memes given in the book included melodies, catch-phrases, fashion and the Chuck Norris."
+    }
+  ]
+}
+
+Food
+{
+  "total": 23,
+  "result": [
+    {
+      "categories": [
+        "food"
+      ],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "MjtEesffSd6AH3Pxbw7_lg",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/MjtEesffSd6AH3Pxbw7_lg",
+      "value": "When Chuck Norris played Chopped from Food Network, he finished his food in 1 millisecond, and instantly wins every dish. You didn't see him play because the episode is secret."
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "Vnx6otXNQD6W04saS5qZjA",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/Vnx6otXNQD6W04saS5qZjA",
+      "value": "When Chuck Norris gets fast food, his order is ready before he walks in."
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "TJ7QCm25RpGZZo-90zyO0w",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/TJ7QCm25RpGZZo-90zyO0w",
+      "value": "Chuck Norris can get Mexican food at a Japanese restaurant."
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "TwLtg7nJQ7i6FnJE9fVwag",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/TwLtg7nJQ7i6FnJE9fVwag",
+      "value": "When Chuck Norris vomits, wealthy people scavenge it for food. Too bad for them Chuck Norris never vomits."
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "e9LPe1QcTIWO8VqQJZmhhg",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/e9LPe1QcTIWO8VqQJZmhhg",
+      "value": "Chuck Norris' favorite seafood restaurant always serves him armadillo on the half shell."
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "nIEoobK5RN-HHhbHbGf-_Q",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/nIEoobK5RN-HHhbHbGf-_Q",
+      "value": "Chuck Norris' idea of fast food is chasing down a Cheetah and cooking to up on his BBQ."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "g_QVS8WfRf-ncekOSH5RWA",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/g_QVS8WfRf-ncekOSH5RWA",
+      "value": "If Chuck Norris was the host of Chopped from food network, the one that's been chopped will be literally chopped. Luck is what you need. XD"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "RF3_YjYlS_SufzREhV1NUQ",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/RF3_YjYlS_SufzREhV1NUQ",
+      "value": "Chuck Norris loves all that shit Andrew Zimmern eats on bizzare foods."
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "-jHc9HCzSISZnCyVFJIzHw",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/-jHc9HCzSISZnCyVFJIzHw",
+      "value": "Chuck Norris drinks food."
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "tnsit4iqsk2fe7ohwk1qgq",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/tnsit4iqsk2fe7ohwk1qgq",
+      "value": "Chuck Norris owns a chain of fast-food restaurants throughout the southwest. They serve nothing but barbecue-flavored ice cream and Hot Pockets."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:19.104863",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "md-bld8orjsv5mgfsun-xq",
+      "updated_at": "2020-01-05 13:42:19.104863",
+      "url": "https://api.chucknorris.io/jokes/md-bld8orjsv5mgfsun-xq",
+      "value": "Chuck Norris does not eat. Food understands that the only safe haven from Chuck Norris' fists is inside his own body."
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "created_at": "2020-01-05 13:42:19.324003",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "Qp4cJu95Q9y3eaC-Fl7gLA",
+      "updated_at": "2020-01-05 13:42:19.324003",
+      "url": "https://api.chucknorris.io/jokes/Qp4cJu95Q9y3eaC-Fl7gLA",
+      "value": "Chuck Norris doesn't eat, food climbs into his mouth out of fear."
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "created_at": "2020-01-05 13:42:20.262289",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "GzQ6j6hQRQOGL-Uj0doXwQ",
+      "updated_at": "2020-01-05 13:42:20.262289",
+      "url": "https://api.chucknorris.io/jokes/GzQ6j6hQRQOGL-Uj0doXwQ",
+      "value": "Atomic bombs are Chuck Norris favourite food. They are so crisply and spicy."
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "created_at": "2020-01-05 13:42:23.240175",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "zW8KKcrRRoOJ1cW_2m6VaQ",
+      "updated_at": "2020-01-05 13:42:23.240175",
+      "url": "https://api.chucknorris.io/jokes/zW8KKcrRRoOJ1cW_2m6VaQ",
+      "value": "There are more than 1 billion Chinese people throughout the world because Chuck Norris likes Chinese food."
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "created_at": "2020-01-05 13:42:24.40636",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "2sHWyu6dTn-wWyeiqMZ9Pw",
+      "updated_at": "2020-01-05 13:42:24.40636",
+      "url": "https://api.chucknorris.io/jokes/2sHWyu6dTn-wWyeiqMZ9Pw",
+      "value": "Chuck Norris does not find spicy foods hot. Spicy foods find Chuck Norris hot."
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "created_at": "2020-01-05 13:42:26.194739",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "d1EEOBrpQYGX9Ixj1f8kog",
+      "updated_at": "2020-01-05 13:42:26.194739",
+      "url": "https://api.chucknorris.io/jokes/d1EEOBrpQYGX9Ixj1f8kog",
+      "value": "For Chuck Norris, there are only two food groups. Steak and beer."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:26.194739",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "WcepExoRSemkkFEy7jxIew",
+      "updated_at": "2020-01-05 13:42:26.194739",
+      "url": "https://api.chucknorris.io/jokes/WcepExoRSemkkFEy7jxIew",
+      "value": "Chuck Norris can ram your teeth so far down your throat that you will need to sit on your food just to eat it."
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "created_at": "2020-01-05 13:42:29.296379",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "LFS_pIjFSey4S92ADvi3CQ",
+      "updated_at": "2020-01-05 13:42:29.296379",
+      "url": "https://api.chucknorris.io/jokes/LFS_pIjFSey4S92ADvi3CQ",
+      "value": "When Chuck Norris wants food he folds the land to the nearest restaurant so he doesn't have to walk"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:29.569033",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "lFmWlJ5FQq246RGVDBn00w",
+      "updated_at": "2020-01-05 13:42:29.569033",
+      "url": "https://api.chucknorris.io/jokes/lFmWlJ5FQq246RGVDBn00w",
+      "value": "Chuck Norris digests His Food In His Mouth."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:30.177068",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "qzxS6LHMRxOeePXyN60tug",
+      "updated_at": "2020-01-05 13:42:30.177068",
+      "url": "https://api.chucknorris.io/jokes/qzxS6LHMRxOeePXyN60tug",
+      "value": "Chuck Norris once fought the toughest man in the world, promptly after the match the man enrolled in clown school and ended up working for a fast food chain."
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "created_at": "2020-01-05 13:42:30.480041",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "S5uiluahRM26CTWRZNXfwg",
+      "updated_at": "2020-01-05 13:42:30.480041",
+      "url": "https://api.chucknorris.io/jokes/S5uiluahRM26CTWRZNXfwg",
+      "value": "Chuck Norris decided to sell his poop as a food product ... we know it now as wheaties."
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "created_at": "2020-01-05 13:42:30.480041",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "9hRt6ASgRcaqOMDKA_6VXA",
+      "updated_at": "2020-01-05 13:42:30.480041",
+      "url": "https://api.chucknorris.io/jokes/9hRt6ASgRcaqOMDKA_6VXA",
+      "value": "When Chuck Norris is in the mood for seafood... he enjoys fresh caught Kracken!!!!"
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:25.905626",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "fzUIecpIQby60LGwbzthhw",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/fzUIecpIQby60LGwbzthhw",
+      "value": "Steven Seagal now looks like a beached whale because he put his money on junk food instead of Chuck Norris total-gym."
+    }
+  ]
+}
+
+History
+{
+  "total": 17,
+  "result": [
+    {
+      "categories": [
+        "explicit"
+      ],
+      "created_at": "2020-01-05 13:42:19.324003",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "o7quf87osyal6bsxjndela",
+      "updated_at": "2020-01-05 13:42:19.324003",
+      "url": "https://api.chucknorris.io/jokes/o7quf87osyal6bsxjndela",
+      "value": "As a teen, Chuck Norris had sex with every nun in a convent tucked away in the hills of Tuscany. Nine months later the nuns gave birth to the 1972 Miami Dolphins, the only undefeated and untied team in professional football history."
+    },
+    {
+      "categories": [
+        "history"
+      ],
+      "created_at": "2020-01-05 13:42:19.576875",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "vxmg5zgusq6ra35ns4e5sw",
+      "updated_at": "2020-01-05 13:42:19.576875",
+      "url": "https://api.chucknorris.io/jokes/vxmg5zgusq6ra35ns4e5sw",
+      "value": "After returning from World War 2 unscrathed, Bob Dole was congratulated by Chuck Norris with a handshake. The rest is history."
+    },
+    {
+      "categories": [
+        "movie"
+      ],
+      "created_at": "2020-01-05 13:42:19.576875",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "6ilnkzwert6gpoebamjffw",
+      "updated_at": "2020-01-05 13:42:19.576875",
+      "url": "https://api.chucknorris.io/jokes/6ilnkzwert6gpoebamjffw",
+      "value": "A movie scene depicting Chuck Norris losing a fight with Bruce Lee was the product of history's most expensive visual effect. When adjusted for inflation, the effect cost more than the Gross National Product of Paraguay."
+    },
+    {
+      "categories": [
+        "explicit"
+      ],
+      "created_at": "2020-01-05 13:42:19.576875",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "kh-qx4ncshwrucb5_7amka",
+      "updated_at": "2020-01-05 13:42:19.576875",
+      "url": "https://api.chucknorris.io/jokes/kh-qx4ncshwrucb5_7amka",
+      "value": "Chuck Norris is the only known mammal in history to have an opposable thumb. On his penis."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:19.576875",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "uRKNLmzyRwKiU_2fvCwTTw",
+      "updated_at": "2020-01-05 13:42:19.576875",
+      "url": "https://api.chucknorris.io/jokes/uRKNLmzyRwKiU_2fvCwTTw",
+      "value": "Chuck Norris went cliff diving off the coast of Sumatra in 2004. The rest is history."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:20.262289",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "NS48Bp8XQUSad3FheB8RiQ",
+      "updated_at": "2020-01-05 13:42:20.262289",
+      "url": "https://api.chucknorris.io/jokes/NS48Bp8XQUSad3FheB8RiQ",
+      "value": "By twerking daily, Miley Cyrus is in training to build up her ass & snatch muscles enough to be the first woman in history to satisfy Chuck Norris in less than 5 hours by his pile driving rigid tool."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:21.455187",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "jIKN_6PuSjiSTSg7o5avNQ",
+      "updated_at": "2020-01-05 13:42:21.455187",
+      "url": "https://api.chucknorris.io/jokes/jIKN_6PuSjiSTSg7o5avNQ",
+      "value": "A man once took Chuck Norris to court for alleged assult. After the shortest jury deliberation in history, the man was found guilty of first-degree Talking Shit About Mr. Norris and sentenced to death by instant roundhouse kick."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:21.795084",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "qC7h6hB2QaOjOtqWtPQWbg",
+      "updated_at": "2020-01-05 13:42:21.795084",
+      "url": "https://api.chucknorris.io/jokes/qC7h6hB2QaOjOtqWtPQWbg",
+      "value": "Chuck Norris is the only person who can write history of the future."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:22.980058",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "WjtUDGCATSKL9-4YxPlRGA",
+      "updated_at": "2020-01-05 13:42:22.980058",
+      "url": "https://api.chucknorris.io/jokes/WjtUDGCATSKL9-4YxPlRGA",
+      "value": "Chuck Norris is the only man in history to win a Tag Team championship solo."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:24.142371",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "hG20vpRXQ_WAQtOOdXqUNQ",
+      "updated_at": "2020-01-05 13:42:24.142371",
+      "url": "https://api.chucknorris.io/jokes/hG20vpRXQ_WAQtOOdXqUNQ",
+      "value": "Without question, the greatest invention in the history of mankind was beer. Chuck Norris invented beer. Granted, the wheel was also a fine invention but you can't serve a wheel with pizza which was also invented by Chuck Norris."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:24.696555",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "5CKVrHLdShqzRPZah03p3g",
+      "updated_at": "2020-01-05 13:42:24.696555",
+      "url": "https://api.chucknorris.io/jokes/5CKVrHLdShqzRPZah03p3g",
+      "value": "World History is simply a chronicling of events that Chuck Norris has let happen."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:26.991637",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "-6tJrs3pQRqXX8kGV48JiQ",
+      "updated_at": "2020-01-05 13:42:26.991637",
+      "url": "https://api.chucknorris.io/jokes/-6tJrs3pQRqXX8kGV48JiQ",
+      "value": "Contrary to popular belief Chuck Norris learned how to speak Spanish in a French form from a German Dictionary,photocopied from a Korean history book,written by an Egyptian who was born in Brazil,raised by Native Americans,that migrated from The Lost City of Atlantis,in the year 2016 A.D. before Jesus was born"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.143137",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "tquE6d2LRxqTh74d2FJi6A",
+      "updated_at": "2020-01-05 13:42:28.143137",
+      "url": "https://api.chucknorris.io/jokes/tquE6d2LRxqTh74d2FJi6A",
+      "value": "Every convicted killer in the history of the world has been innocent. They were all just covering for Chuck Norris."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.420821",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "lH2WlLPvTHW7R9e6lTVaLg",
+      "updated_at": "2020-01-05 13:42:28.420821",
+      "url": "https://api.chucknorris.io/jokes/lH2WlLPvTHW7R9e6lTVaLg",
+      "value": "Jesus is the only person in history who was not killed by Chuck Norris; when Chuck Norris kills someone, they stay dead."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:29.296379",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "YEMY6imrQd6uIzB5wZoLog",
+      "updated_at": "2020-01-05 13:42:29.296379",
+      "url": "https://api.chucknorris.io/jokes/YEMY6imrQd6uIzB5wZoLog",
+      "value": "Someone once told Chuck Norris that a roundhouse kick is not the best kick. This has been noted in history as the worst mistake ever made."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:29.855523",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "o1PJ78IMSYyz4mzGag4bmA",
+      "updated_at": "2020-01-05 13:42:29.855523",
+      "url": "https://api.chucknorris.io/jokes/o1PJ78IMSYyz4mzGag4bmA",
+      "value": "The Chicago Cubs are the worst team in baseball history. The only reason Cub fans still exist is because they are the only group of losers that Chuck Norris, uncharacteristically, has displayed any mercy for."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:29.855523",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "aKapZMz-SG60r_6wjEkOtQ",
+      "updated_at": "2020-01-05 13:42:29.855523",
+      "url": "https://api.chucknorris.io/jokes/aKapZMz-SG60r_6wjEkOtQ",
+      "value": "Chuck Norris is loaded with more weaponry and alcohol than every pirate in history put together."
+    }
+  ]
+}
+
+Money
+{
+  "total": 41,
+  "result": [
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:19.576875",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "i3ri7iiurh6l1vnvtqow2a",
+      "updated_at": "2020-01-05 13:42:19.576875",
+      "url": "https://api.chucknorris.io/jokes/i3ri7iiurh6l1vnvtqow2a",
+      "value": "When Chuck Norris calls 1-900 numbers, he doesn't get charged. He holds up the phone and money falls out."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:20.262289",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "zkEByzvwRGCTYqLuhFRF0w",
+      "updated_at": "2020-01-05 13:42:20.262289",
+      "url": "https://api.chucknorris.io/jokes/zkEByzvwRGCTYqLuhFRF0w",
+      "value": "When a young boy asked for Chuck Norris' autograph, he gave him a good solid kick to the face and left a permanent boot mark. This is Chuck's unique autograph, and that boy's face is now worth more money than the treasure from King Tut's tomb."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:20.568859",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "m0i9Soh0SVqn6REAfk10uw",
+      "updated_at": "2020-05-22 06:02:41.792421",
+      "url": "https://api.chucknorris.io/jokes/m0i9Soh0SVqn6REAfk10uw",
+      "value": "If you have $100 and Chuck Norris is broke, He still has more money than you."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:20.568859",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "5AJRynf8S9Sd-bbwnEYEYA",
+      "updated_at": "2020-01-05 13:42:20.568859",
+      "url": "https://api.chucknorris.io/jokes/5AJRynf8S9Sd-bbwnEYEYA",
+      "value": "All professional sports teams pay Chuck Norris Not to play--saves money on body bags and funeral arrangements."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:20.841843",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "ZaNUDPlKTROi6DL1Ii8LOQ",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/ZaNUDPlKTROi6DL1Ii8LOQ",
+      "value": "Chuck Norris knows how to shut down Skynet. Warner Bros beged him not to so they can make some money out of it."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:21.455187",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "jwE_Et0qSVe7jCjBBC6v_g",
+      "updated_at": "2020-01-05 13:42:21.455187",
+      "url": "https://api.chucknorris.io/jokes/jwE_Et0qSVe7jCjBBC6v_g",
+      "value": "If Money is the root of all Evil... Evil is th root of CHUCK NORRIS!"
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:25.099703",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "No-AUOVWQiiOyXwPFIAAhg",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/No-AUOVWQiiOyXwPFIAAhg",
+      "value": "Chuck Norris can buy his Walker, texas rangers dvd without any money."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:25.628594",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "EXq1Zi3pTPeLWJvidak70w",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/EXq1Zi3pTPeLWJvidak70w",
+      "value": "Chuck Norris loans money to the World Bank."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:26.447675",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "pIeNn_rzQ0OoO62HUVrfQw",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/pIeNn_rzQ0OoO62HUVrfQw",
+      "value": "If Chuck Norris steals money from a bank, the owner of the bank gets arrested for not just giving Chuck Norris the money."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:29.855523",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "Wwcp0zJeTVeHB8zEZyciCw",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/Wwcp0zJeTVeHB8zEZyciCw",
+      "value": "Chuck Norris is so scary, he can print his own money by sending selfies to the U.S. Mint."
+    },
+    {
+      "categories": [
+        "explicit"
+      ],
+      "created_at": "2020-01-05 13:42:20.568859",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "o6hnjjOITzehqLHbSWS8hQ",
+      "updated_at": "2020-03-08 16:38:30.063749",
+      "url": "https://api.chucknorris.io/jokes/o6hnjjOITzehqLHbSWS8hQ",
+      "value": "Late at night, Chuck Norris was once walking back home alone after watching a Chuck Norris movie. A mugger approached him from the back, tapped on his shoulder and said \"Hey, gimme your money!\". Chuck Norris slowly turned around, paused for a while and gave the mugger a sarcastic smile. He then proceeded to rape the mugger anally, crush his skull, break his spine and killed him in a fraction of a second. Chuck Norris then brought the mugger back to life and then broke each of his limbs, eviscerated the mugger's gut, ate the mugger's still beating heart and infected him with AIDS, killing the unfortunate mugger once again. Chuck Norris then brough the mugger to life yet again for the second time, only to give the mugger a final fatal roundhous kick to his face killing the man and his soul at the same time. Chuck Norris then threw his packed wallet at the remains of his victim and said \"Do not tap on my shoulders ever again\", and continued to walk home slowly."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:20.568859",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "FZzIUAXAQHO52OJbYFUAgw",
+      "updated_at": "2020-05-22 06:02:41.792421",
+      "url": "https://api.chucknorris.io/jokes/FZzIUAXAQHO52OJbYFUAgw",
+      "value": "If you have five dollars and Chuck Norris is broke, Chuck Norris has more money than you."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:19.897976",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "kROzwt6jTBab78dlTsCtVg",
+      "updated_at": "2020-05-22 06:02:41.792421",
+      "url": "https://api.chucknorris.io/jokes/kROzwt6jTBab78dlTsCtVg",
+      "value": "Chuck Norris donates all of his money to the M.Y. Wallet foundation, and you better too, or else."
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "created_at": "2020-01-05 13:42:19.324003",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "uIrcWG7dRQG2SE2ZITAldQ",
+      "updated_at": "2020-05-22 06:02:41.792421",
+      "url": "https://api.chucknorris.io/jokes/uIrcWG7dRQG2SE2ZITAldQ",
+      "value": "Pepis was created when Chuck Norris said i want a Drink and not a Coke they owe me money. Pepis was thought of, invented, created, canned, and brought to Chuck Norris in 12 mins. Chuck Norris still roundhouse kicked the delivery guy for being to slow with his drink"
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:20.568859",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "WjOKx1P3TL6sg03vnkQmcA",
+      "updated_at": "2020-05-22 06:02:41.792421",
+      "url": "https://api.chucknorris.io/jokes/WjOKx1P3TL6sg03vnkQmcA",
+      "value": "If you have 5 dollars and Chuck Norris has 5 dollars, he has more money than you do."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:21.179347",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "V94Atg5NT7-ZcAPmWWI86w",
+      "updated_at": "2020-05-22 06:02:41.792421",
+      "url": "https://api.chucknorris.io/jokes/V94Atg5NT7-ZcAPmWWI86w",
+      "value": "Jimmy Hoffa owed Chuck Norris money."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:26.766831",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "l7U9EO5rTlyvCc9WIJALtw",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/l7U9EO5rTlyvCc9WIJALtw",
+      "value": "Chuck Norris is so money he's accepted at all highstreet retailers."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:23.484083",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "3sw5A0AMRlOgPfZdtTM3wg",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/3sw5A0AMRlOgPfZdtTM3wg",
+      "value": "There was no \"Great deppresion\". Just a time when Chuck Norris didn't have money."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:28.420821",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "L1GsWHngRoSW1UPXidGQgg",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/L1GsWHngRoSW1UPXidGQgg",
+      "value": "Chuck Norris is the true Sultan of Swing. He also gets his money for nothing, and his chicks for free."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:26.766831",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "FX2OiBnETx6DANSEET4ndg",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/FX2OiBnETx6DANSEET4ndg",
+      "value": "Once Chuck Norris went on a game show called Fear Factor and won the money with no sweat"
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:30.730109",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "H3dOPTjuS1y3v5Bf1-XQvQ",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/H3dOPTjuS1y3v5Bf1-XQvQ",
+      "value": "Homeless people give money to Chuck Norris. The last time Chuck Norris went surfing off the coast of Florida he bit a shark. Chuck Norris doesn't have a problem with alcohol, alcohol has a problem with Chuck Norris. Jimmy Hoffa was last seen talking to Chuck Norris. Fish don't come out of the water because that's where Chuck Norris is. Chuck Norris was in Nagasaki and Hiroshima at the end of World War Two, there were no atom bombs. Christopher Columbus discovered America....because Chuck Norris told him to."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:22.980058",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "KxXm-Ba5SASuHjgieTW08w",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/KxXm-Ba5SASuHjgieTW08w",
+      "value": "Jabba owes Chuck Norris money."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:25.352697",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "XfTC9rAGS_GbP9OynxTbhQ",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/XfTC9rAGS_GbP9OynxTbhQ",
+      "value": "Chuck Norris once beat up Godzilla for lunch money"
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:25.099703",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "MomevOsjSka2pZK6sJjZlw",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/MomevOsjSka2pZK6sJjZlw",
+      "value": "When Chuck Norris goes in to do his income taxes, the IRS Agent simply asks \"how much money would you like back this year, Mr. Chuck Norris\"?"
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:28.664997",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "iNmA3fofScqorFXWo3g0MQ",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/iNmA3fofScqorFXWo3g0MQ",
+      "value": "Chuck Norris once loaned the dinosaurs money. They never payed him back."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:28.984661",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "pOGlPV77SmKjkhOQxu2siQ",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/pOGlPV77SmKjkhOQxu2siQ",
+      "value": "Chuck Norris does not value money. He instead pays for goods and services with the teeth of his enemies."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:28.664997",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "BwMFn3FCQQaCSw0uEKkWLw",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/BwMFn3FCQQaCSw0uEKkWLw",
+      "value": "Obama is Chuck Norris's personal bitch, and makes him wipe his ass, with Obama's own money."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:26.194739",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "_yq0MGFiRPSDdxZ8dnWrUQ",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/_yq0MGFiRPSDdxZ8dnWrUQ",
+      "value": "Chuck Norris doesn't need money, his beard is accepted currency in over 30000 countries."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:23.880601",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "i6l180dNSiW4AvAxQcBERg",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/i6l180dNSiW4AvAxQcBERg",
+      "value": "NASA wants to save money so they asked Chuck Norris to kick the rockets into space and he tied a rope to the rocket to pull it back."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:22.980058",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "n_gB0nd4SzOPwdbZHAsTtw",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/n_gB0nd4SzOPwdbZHAsTtw",
+      "value": "Anton Chigurh (from No Country for Old Men) needed the money to pay Chuck Norris to spare his life."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:26.447675",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "13urACbrRw6YBc7Fr3d7wA",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/13urACbrRw6YBc7Fr3d7wA",
+      "value": "Body armor: $2999.99 Missile launcher: $50,000.99 Getting roundhouse kicked after hitting Chuck Norris with a missile and having body armor, missile launcher and your very being disintegrate on impact: priceless. There are some things money can't buy, a life free from the constant fear of Chuck Norris is one of them."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:22.980058",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "hDEEGiVmQGCiuXt2EbnYMw",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/hDEEGiVmQGCiuXt2EbnYMw",
+      "value": "Chuck Norris loans money back to his creditors at 6.87% (apr) above his borrowing rate from them. They then loan that money to the U.S. Gov't at a hansome profit. Then the lending banks file bankrupcy and the U.S. Gov't borrows money from China to bailout the U.S banks and China borrows money from Chuck Norris to loan to the U.S. Gov't. This is the world economy 2012. Confusing ain't it?"
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:26.447675",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "rC7MOkCHTCmiIh7MHOG4-g",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/rC7MOkCHTCmiIh7MHOG4-g",
+      "value": "In response to the recent Ice Bucket Challenge that is trending worldwide, Chuck Norris invented a version of his own. Simply called the \"Bucket Challenge,\" you donate money to Chuck Norris or he repeatedly throws buckets at you until you give in."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:21.179347",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "gnRIdaF_QqyrE0G-GdCuWA",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/gnRIdaF_QqyrE0G-GdCuWA",
+      "value": "Chuck Norris will not be printed on money; no one pays out Chuck Norris. Ever."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:25.905626",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "fzUIecpIQby60LGwbzthhw",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/fzUIecpIQby60LGwbzthhw",
+      "value": "Steven Seagal now looks like a beached whale because he put his money on junk food instead of Chuck Norris total-gym."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:26.766831",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "Oqe6nb1QQCyf6Fq6d0duBg",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/Oqe6nb1QQCyf6Fq6d0duBg",
+      "value": "Chuck Norris walked into a bank during a robbery. When the crooks saw Chuck, they returned all the money then gave the teller all the money from their own wallets."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:28.664997",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "nfuwYYXLR_qQXu8uUthvww",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/nfuwYYXLR_qQXu8uUthvww",
+      "value": "Panhandlers give Chuck Norris money."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:29.569033",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "_IEikC7PR4KFEX5WvgZ6kQ",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/_IEikC7PR4KFEX5WvgZ6kQ",
+      "value": "Well it's-a one for the money, two for the show, three to get ready and BAM!! Chuck Norris."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:30.177068",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "o7xRYQCMQR29drhes2LEhQ",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/o7xRYQCMQR29drhes2LEhQ",
+      "value": "if you have five dollars and Chuck Norris has five dollars, Chuck Norris has more money than you."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:26.766831",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "5cGCv-UkQR6S7HeRjULwyw",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/5cGCv-UkQR6S7HeRjULwyw",
+      "value": "When Chuck Norris played golf for money, chuck marked down a hole in 0 every time, a pro at the golf club, said to Chuck: \"excuse me sir, but you cant score zero on a hole\". Chuck Norris turned towards the man and said, im Chuck Norris, the man then proceeded to pour gas over his body and set himself on fire because that would be less painful than getting roundhouse kicked by Chuck Norris, Chuck Norris roundhouse kicked him in the face anyways."
+    },
+    {
+      "categories": [
+        "money"
+      ],
+      "created_at": "2020-01-05 13:42:24.40636",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "gjcgdPlIRhGhXe5WmiOysw",
+      "updated_at": "2020-05-22 06:16:41.133769",
+      "url": "https://api.chucknorris.io/jokes/gjcgdPlIRhGhXe5WmiOysw",
+      "value": "A mugger thought he was going to take Chuck Norris' money. His funeral is tomorrow."
+    }
+  ]
+}
+
+
+movie
+{
+  "total": 123,
+  "result": [
+    {
+      "categories": [
+        "movie"
+      ],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "etu5stytromsxrgybafqca",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/etu5stytromsxrgybafqca",
+      "value": "In the X-Men movies, none of the X-Men super-powers are done with special effects. Chuck Norris is the stuntman for every character."
+    },
+    {
+      "categories": [
+        "movie"
+      ],
+      "created_at": "2020-01-05 13:42:19.104863",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "c-3yrrglr0ouxifeo2rzsw",
+      "updated_at": "2020-01-05 13:42:19.104863",
+      "url": "https://api.chucknorris.io/jokes/c-3yrrglr0ouxifeo2rzsw",
+      "value": "In the movie \"The Matrix\", Chuck Norris is the Matrix. If you pay close attention in the green \"falling code\" scenes, you can make out the faint texture of his beard."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:19.104863",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "hQNnD4sWTR-JVxnKg_RFDw",
+      "updated_at": "2020-01-05 13:42:19.104863",
+      "url": "https://api.chucknorris.io/jokes/hQNnD4sWTR-JVxnKg_RFDw",
+      "value": "When you watch a movie about Chuck Norris, his hand pops out of the TV and grabs and takes your soul."
+    },
+    {
+      "categories": [
+        "movie"
+      ],
+      "created_at": "2020-01-05 13:42:19.324003",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "qaetpus9twgdkckd70jisw",
+      "updated_at": "2020-01-05 13:42:19.324003",
+      "url": "https://api.chucknorris.io/jokes/qaetpus9twgdkckd70jisw",
+      "value": "The movie \"Delta Force\" was extremely hard to make because Chuck had to downplay his abilities. The first few cuts were completely unbelievable."
+    },
+    {
+      "categories": [
+        "movie"
+      ],
+      "created_at": "2020-01-05 13:42:19.324003",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "uxohgpg8seo16qzc5xnbdw",
+      "updated_at": "2020-01-05 13:42:19.324003",
+      "url": "https://api.chucknorris.io/jokes/uxohgpg8seo16qzc5xnbdw",
+      "value": "\"Brokeback Mountain\" is not just a movie. It's also what Chuck Norris calls the pile of dead ninjas in his front yard."
+    },
+    {
+      "categories": [
+        "movie"
+      ],
+      "created_at": "2020-01-05 13:42:19.324003",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "te2c64-ls3owmuy5amehtg",
+      "updated_at": "2020-01-05 13:42:19.324003",
+      "url": "https://api.chucknorris.io/jokes/te2c64-ls3owmuy5amehtg",
+      "value": "The original title for Alien vs. Predator was Alien and Predator vs Chuck Norris. The film was cancelled shortly after going into preproduction. No one would pay nine dollars to see a movie fourteen seconds long."
+    },
+    {
+      "categories": [
+        "movie"
+      ],
+      "created_at": "2020-01-05 13:42:19.324003",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "awceyp1nrpaxt6e_mz-uea",
+      "updated_at": "2020-01-05 13:42:19.324003",
+      "url": "https://api.chucknorris.io/jokes/awceyp1nrpaxt6e_mz-uea",
+      "value": "The phrase 'dead ringer' refers to someone who sits behind Chuck Norris in a movie theater and forgets to turn their cell phone off."
+    },
+    {
+      "categories": [
+        "movie"
+      ],
+      "created_at": "2020-01-05 13:42:19.324003",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "gcu1ibbzsyootruza5rsya",
+      "updated_at": "2020-01-05 13:42:19.324003",
+      "url": "https://api.chucknorris.io/jokes/gcu1ibbzsyootruza5rsya",
+      "value": "When Arnold says \"I'll be back\" in Terminator movie it is implied that he's going to ask Chuck Norris for help."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:19.576875",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "3FFcGIlsS36ypk_WpnMCpA",
+      "updated_at": "2020-01-05 13:42:19.576875",
+      "url": "https://api.chucknorris.io/jokes/3FFcGIlsS36ypk_WpnMCpA",
+      "value": "When Chuck Norris watches a movie, you can notice an unmistakable fear on the faces of the actors on the screen."
+    },
+    {
+      "categories": [
+        "movie"
+      ],
+      "created_at": "2020-01-05 13:42:19.576875",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "yfo2yjqlsrc5ksiimbpqig",
+      "updated_at": "2020-01-05 13:42:19.576875",
+      "url": "https://api.chucknorris.io/jokes/yfo2yjqlsrc5ksiimbpqig",
+      "value": "In the first Jurassic Park movie, the Tyrannosaurus Rex wasn't chasing the jeep. Chuck Norris was chasing the Tyrannosaurus AND the jeep."
+    },
+    {
+      "categories": [
+        "movie"
+      ],
+      "created_at": "2020-01-05 13:42:19.576875",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "sudkgw_tr_ejehjag7cqwq",
+      "updated_at": "2020-01-05 13:42:19.576875",
+      "url": "https://api.chucknorris.io/jokes/sudkgw_tr_ejehjag7cqwq",
+      "value": "The opening scene of the movie \"Saving Private Ryan\" is loosely based on games of dodgeball Chuck Norris played in second grade."
+    },
+    {
+      "categories": [
+        "movie"
+      ],
+      "created_at": "2020-01-05 13:42:19.576875",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "6ilnkzwert6gpoebamjffw",
+      "updated_at": "2020-01-05 13:42:19.576875",
+      "url": "https://api.chucknorris.io/jokes/6ilnkzwert6gpoebamjffw",
+      "value": "A movie scene depicting Chuck Norris losing a fight with Bruce Lee was the product of history's most expensive visual effect. When adjusted for inflation, the effect cost more than the Gross National Product of Paraguay."
+    },
+    {
+      "categories": [
+        "movie"
+      ],
+      "created_at": "2020-01-05 13:42:19.576875",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "1fkrltd6skk9tj3nm9xphq",
+      "updated_at": "2020-01-05 13:42:19.576875",
+      "url": "https://api.chucknorris.io/jokes/1fkrltd6skk9tj3nm9xphq",
+      "value": "Movie trivia: The movie \"Invasion U.S.A.\" is, in fact, a documentary."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:19.576875",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "ltH4LFy5SdKlw7Qb799rOw",
+      "updated_at": "2020-01-05 13:42:19.576875",
+      "url": "https://api.chucknorris.io/jokes/ltH4LFy5SdKlw7Qb799rOw",
+      "value": "Chuck Norris is a 75 year old red neck ginger who only did B-rated movies and has been memed dry already. The only real fact about him on here...."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:19.576875",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "7YcJMpvfS2iEdNFKxI3SSQ",
+      "updated_at": "2020-01-05 13:42:19.576875",
+      "url": "https://api.chucknorris.io/jokes/7YcJMpvfS2iEdNFKxI3SSQ",
+      "value": "Chuck Norris' DVD commentaries on his movies are always dead silence, punctuated every minute or so by the cracking of a beer can."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:19.897976",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "vbf-imJdS8qHTbhERIScnw",
+      "updated_at": "2020-01-05 13:42:19.897976",
+      "url": "https://api.chucknorris.io/jokes/vbf-imJdS8qHTbhERIScnw",
+      "value": "Only Expendables 2 earned its title as an All Star Movie, and that was merely by the introduction of Chuck Norris."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:19.897976",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "XlXLbSLOQYedYDIb6KwuIg",
+      "updated_at": "2020-01-05 13:42:19.897976",
+      "url": "https://api.chucknorris.io/jokes/XlXLbSLOQYedYDIb6KwuIg",
+      "value": "In the movie Alien 5 the Asswhoopin', movie goers were astonished to see a small Chuck Norris burst out of an alien and proceed to kick the crap out of him."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:19.897976",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "yUWc00SrRqOOllvQNszQgw",
+      "updated_at": "2020-01-05 13:42:19.897976",
+      "url": "https://api.chucknorris.io/jokes/yUWc00SrRqOOllvQNszQgw",
+      "value": "Chuck Norris was the first actor cast to play John McClane, the movies were originally called \"Kills Easily\""
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:19.897976",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "HQDY4871Q_mhOZgVLHZXHQ",
+      "updated_at": "2020-01-05 13:42:19.897976",
+      "url": "https://api.chucknorris.io/jokes/HQDY4871Q_mhOZgVLHZXHQ",
+      "value": "\"The Bride of Chucky\" might be a scary movie. But \"The Beard of Chuck\" is even scarier... Chuck Norris FTW......"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:20.262289",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "Ro08-Qv9Q36-L55Aq6QLxQ",
+      "updated_at": "2020-01-05 13:42:20.262289",
+      "url": "https://api.chucknorris.io/jokes/Ro08-Qv9Q36-L55Aq6QLxQ",
+      "value": "A movie critic told Chuck Norris \"my dilemma is whether so watch one of your movies or watch paint dry\". Chuck told him \"my dilemma is whether to rip off your scrotum or punch you in the throat\". Chuck did both."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:20.262289",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "2goIzAJ7Tj2DJxs0Pph9Bg",
+      "updated_at": "2020-01-05 13:42:20.262289",
+      "url": "https://api.chucknorris.io/jokes/2goIzAJ7Tj2DJxs0Pph9Bg",
+      "value": "A Chuck Norris movie will touch your heart. Then it will rip it out of your chest."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:20.262289",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "r_kDpMAeSoa8tctOd-yAfg",
+      "updated_at": "2020-01-05 13:42:20.262289",
+      "url": "https://api.chucknorris.io/jokes/r_kDpMAeSoa8tctOd-yAfg",
+      "value": "The Movie Predator was in direct retaliation of Chuck Norris' Vacation to the Predator's Home Planet. Body Count: Predator: 5 Chuck Norris: 5 Million"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:20.262289",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "eBdr9f_wS_CKXzI8C-lNJA",
+      "updated_at": "2020-01-05 13:42:20.262289",
+      "url": "https://api.chucknorris.io/jokes/eBdr9f_wS_CKXzI8C-lNJA",
+      "value": "Paramedics are now being taught to ask a person regaining conciousness- What's your name? How many fingers? What's the greatest Chuck Norris movie? And the answer had better fucking be Delta Force."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:20.262289",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "81bbGmuCTxCKkIHbB5sa1g",
+      "updated_at": "2020-01-05 13:42:20.262289",
+      "url": "https://api.chucknorris.io/jokes/81bbGmuCTxCKkIHbB5sa1g",
+      "value": "The Internet Movie Database reports that Chuck Norris has appeared in 38 films to date. This of course doesn't count the literally thousands of porno and snuff movies Chuck Norris has starred in and/or directed."
+    },
+    {
+      "categories": [
+        "religion"
+      ],
+      "created_at": "2020-01-05 13:42:28.984661",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "j_stYjIXSPWn7a_9DnI4ug",
+      "updated_at": "2020-08-24 15:45:37.119961",
+      "url": "https://api.chucknorris.io/jokes/j_stYjIXSPWn7a_9DnI4ug",
+      "value": "Chuck Norris was originally offered the role as Frodo in Lord of the Rings. He declined because, \"Only a pussy would need three movies to destroy a piece of jewelery.\""
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:20.568859",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "UsvG3I-mS9GGYOPjewtyZw",
+      "updated_at": "2020-01-05 13:42:20.568859",
+      "url": "https://api.chucknorris.io/jokes/UsvG3I-mS9GGYOPjewtyZw",
+      "value": "Chuck Norris was originally going to be in Cowboys VS Aliens, but the movie would have been over in about 3 minutes and 7 seconds."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:20.841843",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "UYzHC7zGRJ-7GM3fjA70_A",
+      "updated_at": "2020-01-05 13:42:20.841843",
+      "url": "https://api.chucknorris.io/jokes/UYzHC7zGRJ-7GM3fjA70_A",
+      "value": "the movie \"dont mess with zohan\" is based on the true story of Chuck Norris' life"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:20.841843",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "uX56eoMrSNCyiBbr9b3g2g",
+      "updated_at": "2020-01-05 13:42:20.841843",
+      "url": "https://api.chucknorris.io/jokes/uX56eoMrSNCyiBbr9b3g2g",
+      "value": "In the movie \"Batman: The Dark Knight\", Bats asks a local goon, \"Where's the Joker?!\" A deleted scene has Chuck Norris teleport into the interrogation room and say, \"I killed him.\" This was arranged due to Heath Ledger's untimely death, so Chuck stepped in and played a pretty mean Joker, wouldn't you say? If you don't agree, you've got three seconds to change your mind...or die."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:20.841843",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "YtV-IbXWR7udu22mXNmkFQ",
+      "updated_at": "2020-01-05 13:42:20.841843",
+      "url": "https://api.chucknorris.io/jokes/YtV-IbXWR7udu22mXNmkFQ",
+      "value": "If Chuck Norris was the lead actor of Mission Impossible, the movie would've lasted 1 minute."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:20.841843",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "P_fTah5HTGu-n7h81kB53A",
+      "updated_at": "2020-01-05 13:42:20.841843",
+      "url": "https://api.chucknorris.io/jokes/P_fTah5HTGu-n7h81kB53A",
+      "value": "Chuck Norris was supposed to star in the movie \"Zombieland\". The zombies were terrified of him and Woody Harrelson had to replace him."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:20.841843",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "bviMCynvSX2TYwU86nZObA",
+      "updated_at": "2020-01-05 13:42:20.841843",
+      "url": "https://api.chucknorris.io/jokes/bviMCynvSX2TYwU86nZObA",
+      "value": "Chuck Norris starred in a sequel to the movie \"300\" It's called \"1\""
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:20.841843",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "3ejDUXYRRj2uYewAqKGvTg",
+      "updated_at": "2020-01-05 13:42:20.841843",
+      "url": "https://api.chucknorris.io/jokes/3ejDUXYRRj2uYewAqKGvTg",
+      "value": "When Chuck Norris shaves his beard, it grows back within three minutes. That's why his early movies were so damn hard to film."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:21.179347",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "uTtlxtNYR5edfL1jzwjB2g",
+      "updated_at": "2020-01-05 13:42:21.179347",
+      "url": "https://api.chucknorris.io/jokes/uTtlxtNYR5edfL1jzwjB2g",
+      "value": "If Chuck Norris ever starred in Jaws, the movie would be called: \"Dentures\"."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:21.179347",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "JbC02pTdSmiLbji6nFq6wA",
+      "updated_at": "2020-01-05 13:42:21.179347",
+      "url": "https://api.chucknorris.io/jokes/JbC02pTdSmiLbji6nFq6wA",
+      "value": "When the Terminator goes to the cinema, he watches only Chuck Norris movies."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:21.455187",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "CQO24vxMQpC8zKk-TDUb6A",
+      "updated_at": "2020-01-05 13:42:21.455187",
+      "url": "https://api.chucknorris.io/jokes/CQO24vxMQpC8zKk-TDUb6A",
+      "value": "Chuck Norris turned down the lead role in the movie \"Crank\" ...said it made him look weak"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:21.455187",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "r8NlMqGpRNSK4brQZe-zSQ",
+      "updated_at": "2020-01-05 13:42:21.455187",
+      "url": "https://api.chucknorris.io/jokes/r8NlMqGpRNSK4brQZe-zSQ",
+      "value": "If they couldn't get John Malkovich for the movie 'Being John Malkovich', they would have simply changed it to 'Being Chuck Norris', and made a porno."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:21.795084",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "N9b5GusCRYq3nLOwUVtDog",
+      "updated_at": "2020-01-05 13:42:21.795084",
+      "url": "https://api.chucknorris.io/jokes/N9b5GusCRYq3nLOwUVtDog",
+      "value": "There's a word for someone who doesn't like Chuck Norris movies: pussy."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:21.795084",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "nWDGC-ftReK71GV2lrK1gQ",
+      "updated_at": "2020-01-05 13:42:21.795084",
+      "url": "https://api.chucknorris.io/jokes/nWDGC-ftReK71GV2lrK1gQ",
+      "value": "Chuck Norris always flips the script. That's the only reason why he doesn't get more movie roles."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:21.795084",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "kZcyWWMjSC6Aw7LrIB43eQ",
+      "updated_at": "2020-01-05 13:42:21.795084",
+      "url": "https://api.chucknorris.io/jokes/kZcyWWMjSC6Aw7LrIB43eQ",
+      "value": "Movies that suck never feature Chuck Norris."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:22.089095",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "yM1IHwkzQce54Pfq1zemlg",
+      "updated_at": "2020-01-05 13:42:22.089095",
+      "url": "https://api.chucknorris.io/jokes/yM1IHwkzQce54Pfq1zemlg",
+      "value": "There are 5 rules that can be applied to almost every Chuck Norris movie. Rule 1: Chuck Norris never reloads Rule 2: Chuck Norris always hits first Rule 3: You can't run or hide from Chuck Norris Rule 4: Everything he touches becomes a weapon Rule 5: Chuck Norris never miss his targets"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:22.089095",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "cZ_yrVksRzCQ7ZRN_tpYLw",
+      "updated_at": "2020-01-05 13:42:22.089095",
+      "url": "https://api.chucknorris.io/jokes/cZ_yrVksRzCQ7ZRN_tpYLw",
+      "value": "Originally, the movie Alien vs Predator was called Alien and Predator vs Chuck Norris. It was canceled because no one wanted to see a movie that is 30 seconds long."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:22.089095",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "sp-z6p6fRTe4lhk_uSAFJg",
+      "updated_at": "2020-01-05 13:42:22.089095",
+      "url": "https://api.chucknorris.io/jokes/sp-z6p6fRTe4lhk_uSAFJg",
+      "value": "Movies and TV shows fail when they do not impress Chuck Norris."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:22.089095",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "8L-h876rRCax_JDss_Hscg",
+      "updated_at": "2020-01-05 13:42:22.089095",
+      "url": "https://api.chucknorris.io/jokes/8L-h876rRCax_JDss_Hscg",
+      "value": "The original title for Big Hero 6 was Big Chuck Norris 6. The movie was cancelled after going into production becuase nobody would pay 13 dollars to see a 28 second-long movie."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:22.701402",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "QcctvkPHSOmhhj0otWaIKw",
+      "updated_at": "2020-01-05 13:42:22.701402",
+      "url": "https://api.chucknorris.io/jokes/QcctvkPHSOmhhj0otWaIKw",
+      "value": "Chuck Norris knew the ending of Star Trek, Star Trek Generations, Star Trek Enterprise, and the Star Trek Movie before it became an idea."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:22.701402",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "gM4Ao1V7SKerp2nccEMdmQ",
+      "updated_at": "2020-01-05 13:42:22.701402",
+      "url": "https://api.chucknorris.io/jokes/gM4Ao1V7SKerp2nccEMdmQ",
+      "value": "If you ever catch your kid watching a Chuck Norris movie, check him the next day for beard stubble."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:22.701402",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "7iK6hzInRxecnClOyVsVYA",
+      "updated_at": "2020-01-05 13:42:22.701402",
+      "url": "https://api.chucknorris.io/jokes/7iK6hzInRxecnClOyVsVYA",
+      "value": "Those movies when monsters attack tokyo are fake. Its just a documentery about when Chuck Norris lets his pets play outside"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:22.980058",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "zCJ1d7bNRxSbnJbU3avdYQ",
+      "updated_at": "2020-01-05 13:42:22.980058",
+      "url": "https://api.chucknorris.io/jokes/zCJ1d7bNRxSbnJbU3avdYQ",
+      "value": "It was going to be called 'Expendables 2: The One With Chuck Norris', but he decided to give all the other movies a break."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:22.980058",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "IMzrQ42JQ1ihYIHrSj63Tg",
+      "updated_at": "2020-01-05 13:42:22.980058",
+      "url": "https://api.chucknorris.io/jokes/IMzrQ42JQ1ihYIHrSj63Tg",
+      "value": "The first title was alien vs. Predator vs. Chuck Norris , but no one wanted to see a movie that only lasted 14 seconds."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:22.980058",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "L-SI09W7SW67vSFb_oVN0g",
+      "updated_at": "2020-01-05 13:42:22.980058",
+      "url": "https://api.chucknorris.io/jokes/L-SI09W7SW67vSFb_oVN0g",
+      "value": "How come so many Godzilla movies were made? Because they never hired Chuck Norris to kill him off once and for all."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:22.980058",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "JQcc-xylTLOBOJSJkdv2Ow",
+      "updated_at": "2020-01-05 13:42:22.980058",
+      "url": "https://api.chucknorris.io/jokes/JQcc-xylTLOBOJSJkdv2Ow",
+      "value": "Nobody even survives the audio commentary of Chuck Norris' movies."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:22.980058",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "gqH5AbTgQwiZXbbR15tP0Q",
+      "updated_at": "2020-01-05 13:42:22.980058",
+      "url": "https://api.chucknorris.io/jokes/gqH5AbTgQwiZXbbR15tP0Q",
+      "value": "Remember what happens in the movie \"Candyman\" when you say his name three times if you try to say Chuck Norris name three times you wouldn't get the chance to say the last two before he roundhouse kicks your face."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:22.980058",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "Ol7c0HG_TkuP7eFSl4dLFQ",
+      "updated_at": "2020-01-05 13:42:22.980058",
+      "url": "https://api.chucknorris.io/jokes/Ol7c0HG_TkuP7eFSl4dLFQ",
+      "value": "Chuck Norris' favorite video is the tape from the movie \"the ring\" Ironically, if you watch the movie \"sidekicks\", and dont like it, Chuck Norris will roundhouse kick you and when they find your corpse, your face will look the same as the people who died from watching the tape in \"the ring\"."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:22.980058",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "Z54Nd7-jT8iEePinSJ3ZDQ",
+      "updated_at": "2020-01-05 13:42:22.980058",
+      "url": "https://api.chucknorris.io/jokes/Z54Nd7-jT8iEePinSJ3ZDQ",
+      "value": "if Chuck Norris was a Spartan in the movie 300, the movie would be called 1."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:23.484083",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "OpUSVJvcRAWWej1HuZSRrw",
+      "updated_at": "2020-01-05 13:42:23.484083",
+      "url": "https://api.chucknorris.io/jokes/OpUSVJvcRAWWej1HuZSRrw",
+      "value": "When Chuck Norris finishes watching a useless 1 hour movie, he can get his 1 hour back."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:23.880601",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "qGbTSx2iTQ-LY4JY2jfN5Q",
+      "updated_at": "2020-01-05 13:42:23.880601",
+      "url": "https://api.chucknorris.io/jokes/qGbTSx2iTQ-LY4JY2jfN5Q",
+      "value": "Chuck Norris was only played in scenes of the movie Expendables 2 because all of the action scenes compiled would only last 17 seconds."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:23.880601",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "JgSv8y_9So6DMQK2uAKbaA",
+      "updated_at": "2020-01-05 13:42:23.880601",
+      "url": "https://api.chucknorris.io/jokes/JgSv8y_9So6DMQK2uAKbaA",
+      "value": "You know why Chuck Norris-movies suck? Because the movies are nervous about Chuck Norris in 'em."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:23.880601",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "nz2wHnL1SzmAjUcxPfiRNA",
+      "updated_at": "2020-01-05 13:42:23.880601",
+      "url": "https://api.chucknorris.io/jokes/nz2wHnL1SzmAjUcxPfiRNA",
+      "value": "A heckler told Chuck Norris his movies stunk. Chuck told him \"I'd slap you stupid but I can tell someone already beat me to it\"."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:24.142371",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "SWVfmCmcSIaeoNfHo3wb5g",
+      "updated_at": "2020-01-05 13:42:24.142371",
+      "url": "https://api.chucknorris.io/jokes/SWVfmCmcSIaeoNfHo3wb5g",
+      "value": "Sudden Death is: a. a crappy movie starring an even crappier Jean Claude Van Damme b. the way playoff overtimes are decided in the NHL c. what happens to you when you piss off Chuck Norris d. all of the above"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:24.142371",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "Rwgk9rDUQ_ii4f2fLeFZEg",
+      "updated_at": "2020-01-05 13:42:24.142371",
+      "url": "https://api.chucknorris.io/jokes/Rwgk9rDUQ_ii4f2fLeFZEg",
+      "value": "Hugh Jackman is an actor. Wolverine. Chuck Norris is real. Now get roundhoused to your next movie...like a man, Hugh Wackman!"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:24.142371",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "Atzukpp6TqezwFBPm5SfsA",
+      "updated_at": "2020-01-05 13:42:24.142371",
+      "url": "https://api.chucknorris.io/jokes/Atzukpp6TqezwFBPm5SfsA",
+      "value": "The 3D Chuck Norris movie was rated RRRR because no one made it out of the theater. No one ever crosses Chuck Norris!"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:24.40636",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "J8JwOIAVR0m1og4j4HQZ4A",
+      "updated_at": "2020-01-05 13:42:24.40636",
+      "url": "https://api.chucknorris.io/jokes/J8JwOIAVR0m1og4j4HQZ4A",
+      "value": "Chuck Norris was the original star for the movie Pacific Rim. The director had to fire Chuck when he continued to single handedly kick the shit out of the Kijus."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:24.696555",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "95bWAoqQSd6B6Wyv2PE6mA",
+      "updated_at": "2020-01-05 13:42:24.696555",
+      "url": "https://api.chucknorris.io/jokes/95bWAoqQSd6B6Wyv2PE6mA",
+      "value": "Any movie featuring Chuck Norris in any way is classified as a Chuckumentary."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:24.696555",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "-L_razZiToK4lL1GSSqPyg",
+      "updated_at": "2020-01-05 13:42:24.696555",
+      "url": "https://api.chucknorris.io/jokes/-L_razZiToK4lL1GSSqPyg",
+      "value": "The timeless movie classic \"Clash of the Titans\" is actually based on a 1974 Detroit Bar Fight involving Chuck Norris, Bruce Lee, God, and all five members of AC/DC."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.099703",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "2ikazudLQnKT-GzVQl98zQ",
+      "updated_at": "2020-01-05 13:42:25.099703",
+      "url": "https://api.chucknorris.io/jokes/2ikazudLQnKT-GzVQl98zQ",
+      "value": "The invention & benefits of acupuncture came from Chuck Norris when, while hiking in the Amazon jungle, he was cured of a migrane after 5 dozen natives shot him with 375 poison tipped darts. The skinned & scalped bodies of the dead natives were found hanging from treetops 3 days later and was the inspiration behind the \"Predator\" movie series."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.099703",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "3YiGVQKWSMiOrPTKx3QTCg",
+      "updated_at": "2020-01-05 13:42:25.099703",
+      "url": "https://api.chucknorris.io/jokes/3YiGVQKWSMiOrPTKx3QTCg",
+      "value": "Chuck Norris once heard Vin Diesel was tougher than he was. Enraged Chuck began a cross country jog from Texas to California and confronted Vin. It is not known exactly what happened but Immeidately following the confrontation Vin appeared in the movie the \"Pacifier\", working for free. Vin has not appeared in any movies since but is scheduled to be a guest on the critically acclaimed sitcom \"Days of our Lives\"."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.099703",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "ryP7IfHLTTSlMIjc22lPBg",
+      "updated_at": "2020-01-05 13:42:25.099703",
+      "url": "https://api.chucknorris.io/jokes/ryP7IfHLTTSlMIjc22lPBg",
+      "value": "The original title for Alien vs Predator used to be called Alien vs Chuck Norris. But no one wanted to pay $7.50 for a 10 second movie"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.352697",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "SVJyvmXpQN2aJgdF1PqlQw",
+      "updated_at": "2020-01-05 13:42:25.352697",
+      "url": "https://api.chucknorris.io/jokes/SVJyvmXpQN2aJgdF1PqlQw",
+      "value": "Chuck Norris was in a Jack Ryan movie. He was The Sum of All Fears."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.352697",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "C6Rcnt5ZRASpeAClhrFZ4g",
+      "updated_at": "2020-01-05 13:42:25.352697",
+      "url": "https://api.chucknorris.io/jokes/C6Rcnt5ZRASpeAClhrFZ4g",
+      "value": "Chuck Norris was breifly considered for the next Batman movie, but after test shoots, it became clear that it's impossible to film the batroundhouse kick and survive."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.352697",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "YIMdQqANTKKcjAupJTzb-Q",
+      "updated_at": "2020-01-05 13:42:25.352697",
+      "url": "https://api.chucknorris.io/jokes/YIMdQqANTKKcjAupJTzb-Q",
+      "value": "The survival rate for characters in Chuck Norris' movies are so low that people still die when you have it paused."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.352697",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "f_wALTzwRmq0LbfQ1JGC4w",
+      "updated_at": "2020-01-05 13:42:25.352697",
+      "url": "https://api.chucknorris.io/jokes/f_wALTzwRmq0LbfQ1JGC4w",
+      "value": "the movie Alien VS Predator,was a loosly based documentary of the time when Chuck Norris fucked a fat chick"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.628594",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "z6VHhgdFQDyPXlfJca_d2A",
+      "updated_at": "2020-01-05 13:42:25.628594",
+      "url": "https://api.chucknorris.io/jokes/z6VHhgdFQDyPXlfJca_d2A",
+      "value": "It was Chuck Norris who taught Mongo, of the \"Blazing Saddles\" movie fame, how to proerly light a cigar."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.628594",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "Va6Qxu5ASua6zj-cpjk5jQ",
+      "updated_at": "2020-01-05 13:42:25.628594",
+      "url": "https://api.chucknorris.io/jokes/Va6Qxu5ASua6zj-cpjk5jQ",
+      "value": "Chuck Norris can pause a movie at the cinema"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.628594",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "qzQst2FNR9-PSpLhCRbTdw",
+      "updated_at": "2020-01-05 13:42:25.628594",
+      "url": "https://api.chucknorris.io/jokes/qzQst2FNR9-PSpLhCRbTdw",
+      "value": "There are no crying scenes of Chuck Norris in any of his movies? That's strictly because Chuck Norris never allows stunt doubles for any of his scenes."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.628594",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "F4HAIPk6Q3W7KIseFR9sNQ",
+      "updated_at": "2020-01-05 13:42:25.628594",
+      "url": "https://api.chucknorris.io/jokes/F4HAIPk6Q3W7KIseFR9sNQ",
+      "value": "Did you know if you watch the editors cut of Wizard of Oz, theres and alternate ending where Chuck Norris round house kicks Dorothys house back to Kansas... it shortened the movie drastically and the director decided not to use it... true story."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.905626",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "M86wbWDfSHCeXte0TYU04Q",
+      "updated_at": "2020-01-05 13:42:25.905626",
+      "url": "https://api.chucknorris.io/jokes/M86wbWDfSHCeXte0TYU04Q",
+      "value": "Chuck Norris can make a movie with 75 cents and a dirty look."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.905626",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "09Gtht-LR4K4-xrWL7XuBA",
+      "updated_at": "2020-01-05 13:42:25.905626",
+      "url": "https://api.chucknorris.io/jokes/09Gtht-LR4K4-xrWL7XuBA",
+      "value": "The movie \"Roadhouse\" is strictly based on the premise.....what would Chuck Norris do."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:26.194739",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "bcoIW0i2SGeftIdx6iYzNA",
+      "updated_at": "2020-01-05 13:42:26.194739",
+      "url": "https://api.chucknorris.io/jokes/bcoIW0i2SGeftIdx6iYzNA",
+      "value": "The Chuck Norris commandments: Six days thou shalt work out on your Total Gym, but the seventh day thou shalt rest and watch a Chuck Norris movie (Chuck 1:4)"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:26.194739",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "-qpY3--qSaO5YPeIgEZqnQ",
+      "updated_at": "2020-01-05 13:42:26.194739",
+      "url": "https://api.chucknorris.io/jokes/-qpY3--qSaO5YPeIgEZqnQ",
+      "value": "Did you know that Chuck Norris was in every Star Wars movie? He was \"The Force\"."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:26.194739",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "WEcRbchdRzWp2--m2fSe4Q",
+      "updated_at": "2020-01-05 13:42:26.194739",
+      "url": "https://api.chucknorris.io/jokes/WEcRbchdRzWp2--m2fSe4Q",
+      "value": "I was going threw my movies looking for something to watch the otjer night and came accros a Chuck Norris Movvie ,....i woke up 3 daya later with a black eye and swaolen lip dorry bout the spelling that judt hsppen cuauseni mentionshund heis name..."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:26.194739",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "A1vRCQUDQzWpubeUX-KA-w",
+      "updated_at": "2020-01-05 13:42:26.194739",
+      "url": "https://api.chucknorris.io/jokes/A1vRCQUDQzWpubeUX-KA-w",
+      "value": "Chuck Norris was originally going to star in the movie 127 Hours, but was dropped when producers relized they would have to change the name of the movie to 8.3 Seconds."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:26.447675",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "w1ODpbIIT-qWtyNq6arA7g",
+      "updated_at": "2020-01-05 13:42:26.447675",
+      "url": "https://api.chucknorris.io/jokes/w1ODpbIIT-qWtyNq6arA7g",
+      "value": "All bad guys ever kicked by Chuck Norris in TV/movies immediatly died upon end of contract. Chuck Norris respects the Law."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:26.447675",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "s-HkCaTdQ72LlkHUnyBmFQ",
+      "updated_at": "2020-01-05 13:42:26.447675",
+      "url": "https://api.chucknorris.io/jokes/s-HkCaTdQ72LlkHUnyBmFQ",
+      "value": "After watching the movie 'Titanic', Chuck Norris had tears in his eyes. Tears of laughter."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:26.766831",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "yji6_xNdSJWRzRKgLzrMUQ",
+      "updated_at": "2020-01-05 13:42:26.766831",
+      "url": "https://api.chucknorris.io/jokes/yji6_xNdSJWRzRKgLzrMUQ",
+      "value": "Chuck Norris is known for doing every cool thing you've ever seen a person do in a movie, but significantly better."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:26.991637",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "ojVddFCJRmq3p26cvtonQw",
+      "updated_at": "2020-01-05 13:42:26.991637",
+      "url": "https://api.chucknorris.io/jokes/ojVddFCJRmq3p26cvtonQw",
+      "value": "Chuck Norris doesn't need missiles to bomb other countries, he just sends them copies of his old movies."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:26.991637",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "HxJCox7ARBKnz7-i2RvqYA",
+      "updated_at": "2020-01-05 13:42:26.991637",
+      "url": "https://api.chucknorris.io/jokes/HxJCox7ARBKnz7-i2RvqYA",
+      "value": "Chuck Norris knew that Darth Vader was Luke Skywalker's father before the end of the first movie."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:27.496799",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "3go2UcpFQ8im3PXhSkqrJw",
+      "updated_at": "2020-01-05 13:42:27.496799",
+      "url": "https://api.chucknorris.io/jokes/3go2UcpFQ8im3PXhSkqrJw",
+      "value": "Chuck Norris can watch 3-D movies wearing only a monocle."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:26.991637",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "0cyirBrJSay5yYEL1yYw_A",
+      "updated_at": "2020-01-05 13:42:26.991637",
+      "url": "https://api.chucknorris.io/jokes/0cyirBrJSay5yYEL1yYw_A",
+      "value": "In the original making of Scarface when Tony said \"say hello to my little friend\" Chuck Norris appeared. However, the director cut it out said it was too gruesome for a R rated movie."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:27.496799",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "VBYXnXkaScWB_wAtQmQhlw",
+      "updated_at": "2020-01-05 13:42:27.496799",
+      "url": "https://api.chucknorris.io/jokes/VBYXnXkaScWB_wAtQmQhlw",
+      "value": "To ensure that the classic movies are not forgotten by future generations, many are currently being updated by digitally inserting Chuck Norris into them. So get ready for the upcoming re-releases of such classics as Norris Of Arabia, Chuckablanca and Citizen Chuck."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:27.496799",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "xWRzwuFES-2rkdQG7TV-4A",
+      "updated_at": "2020-01-05 13:42:27.496799",
+      "url": "https://api.chucknorris.io/jokes/xWRzwuFES-2rkdQG7TV-4A",
+      "value": "Chuck Norris was seriously considered for all the major roles in the Avengers movies, except of course the female characters Black Widow and Hawkeye."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:27.496799",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "RlbX5-BjQ5GOGwRRvmEB-A",
+      "updated_at": "2020-01-05 13:42:27.496799",
+      "url": "https://api.chucknorris.io/jokes/RlbX5-BjQ5GOGwRRvmEB-A",
+      "value": "A movie about Chuck Norris' early years is in the works, although its production has been delayed -- presumably because they're still trying to find an actor who can read the script without being immediately hospitalized by a serious case of spontaneous ball-shrivelling."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.143137",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "SMmKSIyAT3OKZi3xbK5lSQ",
+      "updated_at": "2020-01-05 13:42:28.143137",
+      "url": "https://api.chucknorris.io/jokes/SMmKSIyAT3OKZi3xbK5lSQ",
+      "value": "The movie 'Caligula' was inspired by the average Chuck Norris house party."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.420821",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "48_89YsET8G4Zxi4MIVLyw",
+      "updated_at": "2020-01-05 13:42:28.420821",
+      "url": "https://api.chucknorris.io/jokes/48_89YsET8G4Zxi4MIVLyw",
+      "value": "Chuck Norris almost turned down a cameo in the movie 'dodgeball' on the grounds that he doesn't dodge balls.. He prefers them resting on his chin."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.420821",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "ZCcyGRYWRGeDi6FnHpeLrw",
+      "updated_at": "2020-01-05 13:42:28.420821",
+      "url": "https://api.chucknorris.io/jokes/ZCcyGRYWRGeDi6FnHpeLrw",
+      "value": "At various times during the making of Star Wars movies, Chuck Norris was considered for the parts of Han Solo, Luke Skywalker, Darth Vader, the Emperor, Chewbacca, Lando and Yoda. In each case he would be wearing his regular clothes and speak in his Texan drawl."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.420821",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "HT825IiPR9qy6vvxlA_hQQ",
+      "updated_at": "2020-01-05 13:42:28.420821",
+      "url": "https://api.chucknorris.io/jokes/HT825IiPR9qy6vvxlA_hQQ",
+      "value": "After seeing ''The Blair Witch Project'', Chuck Norris went into the woods, found the Blair Witch, and roundhouse-kicked it repeatedly until it died. When Chuck Norris pays 6 dollars to see a witch movie, you'd better show him a fuckin' witch."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.664997",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "czQVVR6BRNS2DlMvCRdRFg",
+      "updated_at": "2020-01-05 13:42:28.664997",
+      "url": "https://api.chucknorris.io/jokes/czQVVR6BRNS2DlMvCRdRFg",
+      "value": "They stoped making Chuck Norris movies because you don't watch Chuck Norris he watches you"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.664997",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "5hrvpDCXR9iEdbtyzxIwbw",
+      "updated_at": "2020-01-05 13:42:28.664997",
+      "url": "https://api.chucknorris.io/jokes/5hrvpDCXR9iEdbtyzxIwbw",
+      "value": "Brokeback Mountain isn't just a movie, it's also a pile of dead ninjas in Chuck Norris's backyard."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.664997",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "PuP6ipPsSfq0t_djvRAtzQ",
+      "updated_at": "2020-01-05 13:42:28.664997",
+      "url": "https://api.chucknorris.io/jokes/PuP6ipPsSfq0t_djvRAtzQ",
+      "value": "In a new western movie his fellow actors ride horses. Chuck Norris rides a Velociraptor. Bareback."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.984661",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "QejqtsVbQjWUgqumkVEQHA",
+      "updated_at": "2020-01-05 13:42:28.984661",
+      "url": "https://api.chucknorris.io/jokes/QejqtsVbQjWUgqumkVEQHA",
+      "value": "The only time Chuck Norris was ever beaten was in a fictional movie, Way Of The Dragon, by Bruce Lee. Both Lee and his son Brandon would later die in mysterious curcumstances. This is not a motherfucking coincidence."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.984661",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "BfKhwhWlR-a3gj-_GFGFAw",
+      "updated_at": "2020-01-05 13:42:28.984661",
+      "url": "https://api.chucknorris.io/jokes/BfKhwhWlR-a3gj-_GFGFAw",
+      "value": "The original title for Clash of The Titans was Clash of The Titans with Chuck Norris. The film was cancelled shortly after going into preproduction. No one would pay nine dollars to see a movie ten seconds long."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:29.296379",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "W66jrAveToyTWuVPtNv41Q",
+      "updated_at": "2020-01-05 13:42:29.296379",
+      "url": "https://api.chucknorris.io/jokes/W66jrAveToyTWuVPtNv41Q",
+      "value": "The Terminator movies were written specifically with Chuck Norris in mind for the title role, and was originally called the Walkernator. The only differences were that the T-800 would always wear a cowboy hat and smoke cigars."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:29.296379",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "inXrWc49TA6K9e6KtlyLAA",
+      "updated_at": "2020-01-05 13:42:29.296379",
+      "url": "https://api.chucknorris.io/jokes/inXrWc49TA6K9e6KtlyLAA",
+      "value": "Chuck Norris has a role in every Saw movie... as the traps!"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:29.296379",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "nwspkrnqQu22zzyLbXOYGg",
+      "updated_at": "2020-01-05 13:42:29.296379",
+      "url": "https://api.chucknorris.io/jokes/nwspkrnqQu22zzyLbXOYGg",
+      "value": "\"Iron Man\" was originally going to be called \"Chuck Norris: The Movie,\" but everyone who knew about it got roundhouse kicked. Afterwords, Chuck Norris hired Robert Downey Jr. and had the movie called \"Iron Man\""
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:29.569033",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "A8ldyZvLR-2g9Zpa3ixrSA",
+      "updated_at": "2020-01-05 13:42:29.569033",
+      "url": "https://api.chucknorris.io/jokes/A8ldyZvLR-2g9Zpa3ixrSA",
+      "value": "What is black, white and red all over? Chuck Norris roundhose kicked an actor in a black and white old movie."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:29.855523",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "SkOoG1dcQISid25_8jE-9w",
+      "updated_at": "2020-01-05 13:42:29.855523",
+      "url": "https://api.chucknorris.io/jokes/SkOoG1dcQISid25_8jE-9w",
+      "value": "The Original Name of the Movie was Alien vs Chuck Norris. The producers found this to be a bit of an unfair fight, and knowing that they wanted a sequal, they substitued Predator for Chuck Norris. Many lives were saved."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:29.855523",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "ymysTSrURtalJMiAA14r9A",
+      "updated_at": "2020-01-05 13:42:29.855523",
+      "url": "https://api.chucknorris.io/jokes/ymysTSrURtalJMiAA14r9A",
+      "value": "The world is actually a long action movie franchise and we're all just background characters in Chuck Norris' story."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:29.855523",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "RZ_7jhImRPuagtrsNBrfdQ",
+      "updated_at": "2020-01-05 13:42:29.855523",
+      "url": "https://api.chucknorris.io/jokes/RZ_7jhImRPuagtrsNBrfdQ",
+      "value": "Chuck Norris on the cast of The Expendables 2 means the movie will consist of opening credits, one roundhouse kick, and closing credits. A single shot will not be fired."
+    },
+    {
+      "categories": [
+        "explicit"
+      ],
+      "created_at": "2020-01-05 13:42:29.855523",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "SoaKF2cySrWVTeEj4iOD5w",
+      "updated_at": "2020-01-05 13:42:29.855523",
+      "url": "https://api.chucknorris.io/jokes/SoaKF2cySrWVTeEj4iOD5w",
+      "value": "Chuck Norris never made a Porno Movie because His Penis is registered as a deadly weapon."
+    },
+    {
+      "categories": [
+        "explicit"
+      ],
+      "created_at": "2020-01-05 13:42:29.855523",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "JiqrAB-RRm-xYlPafESBVw",
+      "updated_at": "2020-01-05 13:42:29.855523",
+      "url": "https://api.chucknorris.io/jokes/JiqrAB-RRm-xYlPafESBVw",
+      "value": "Good Will Hunting was originally going to be called Good Chuck Norris. However, after producers watched the test footage (shot by Norris himself), they realized the constant graphic violence and extended hardcore sex scenes were too much for a mainstream audience, so, they decided to get a bunch of pussies to make a movie for wimps instead."
+    },
+    {
+      "categories": [
+        "explicit"
+      ],
+      "created_at": "2020-01-05 13:42:29.855523",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "nv7PD0KwQRGhM0aB2cDvyg",
+      "updated_at": "2020-01-05 13:42:29.855523",
+      "url": "https://api.chucknorris.io/jokes/nv7PD0KwQRGhM0aB2cDvyg",
+      "value": "There is no sex scenes in Chuck Norris movies because, lets face it, no female stunt double will survive a session with him."
+    },
+    {
+      "categories": [
+        "movie"
+      ],
+      "created_at": "2020-01-05 13:42:29.855523",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "udiwfiwnqpqsyhoj_fjuba",
+      "updated_at": "2020-01-05 13:42:29.855523",
+      "url": "https://api.chucknorris.io/jokes/udiwfiwnqpqsyhoj_fjuba",
+      "value": "James Cameron wanted Chuck Norris to play the Terminator. However, upon reflection, he realized that would have turned his movie into a documentary, so he went with Arnold Schwarzenegger."
+    },
+    {
+      "categories": [
+        "explicit"
+      ],
+      "created_at": "2020-01-05 13:42:29.855523",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "hwZ2oOjvQ3m5AuOwmL0_3w",
+      "updated_at": "2020-01-05 13:42:29.855523",
+      "url": "https://api.chucknorris.io/jokes/hwZ2oOjvQ3m5AuOwmL0_3w",
+      "value": "There's an old saying in the movie business: If Chuck Norris goes more than 2 hours without a blowjob, you better remember one thing... (And then you wait for someone to ask what, and then you go: \"A good supply of body bags.\" )"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:30.177068",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "4Bxi-E-MQESLu-yQuZD2-g",
+      "updated_at": "2020-01-05 13:42:30.177068",
+      "url": "https://api.chucknorris.io/jokes/4Bxi-E-MQESLu-yQuZD2-g",
+      "value": "The movie 'Anacondas' was filmed in Chuck Norris' pants"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:30.177068",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "L3MVra9ZSyOAUcWy7Kf68A",
+      "updated_at": "2020-01-05 13:42:30.177068",
+      "url": "https://api.chucknorris.io/jokes/L3MVra9ZSyOAUcWy7Kf68A",
+      "value": "if Chuck Norris stared on the movie \"taken\" the movie would have been called \"given back questions asked\""
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:30.177068",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "wq5naqhkTDmO8wIFB1NnSQ",
+      "updated_at": "2020-01-05 13:42:30.177068",
+      "url": "https://api.chucknorris.io/jokes/wq5naqhkTDmO8wIFB1NnSQ",
+      "value": "As long as Chuck Norris lives in planet earth there will be no asteroid or aliens that would dare touch our planet. That's why he doesn't do asteroids, or alien invasion movies, cause they won't have any sense."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:30.177068",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "rg5eGKsLQyCLqjN05eBMhw",
+      "updated_at": "2020-01-05 13:42:30.177068",
+      "url": "https://api.chucknorris.io/jokes/rg5eGKsLQyCLqjN05eBMhw",
+      "value": "did you see the movie godzilla he did'nt come to scare newyork he came to get away from Chuck Norris"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:30.177068",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "K6Cv7y9MTjaTsc8ynm91AA",
+      "updated_at": "2020-01-05 13:42:30.177068",
+      "url": "https://api.chucknorris.io/jokes/K6Cv7y9MTjaTsc8ynm91AA",
+      "value": "Chuck Norris can play angry birds, listen to music and watch movies on a pay-phone... and all for free"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:30.480041",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "4Od8JJS1QWSrFHezxtI3Hg",
+      "updated_at": "2020-01-05 13:42:30.480041",
+      "url": "https://api.chucknorris.io/jokes/4Od8JJS1QWSrFHezxtI3Hg",
+      "value": "in the movie dodgeball when Chuck Norris gave the thumbs up all bets were off for stiller...... Chuck Norris cannot tell a lie"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:30.480041",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "Dp-DMEqWR02F5t0FL9n2oQ",
+      "updated_at": "2020-01-05 13:42:30.480041",
+      "url": "https://api.chucknorris.io/jokes/Dp-DMEqWR02F5t0FL9n2oQ",
+      "value": "alien vs predator was origonally called aliens and predator vs Chuck Norris but nobody would pay 9 dollars to see a movie 14 seconds long"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:30.480041",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "Ht-0D3quQ_GAYAmSTV2mqw",
+      "updated_at": "2020-01-05 13:42:30.480041",
+      "url": "https://api.chucknorris.io/jokes/Ht-0D3quQ_GAYAmSTV2mqw",
+      "value": "The movie \"anaconda\" was shot in Chuck Norris' underwear"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:30.480041",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "pMJYxJZfTsC6UNx5OI9pAg",
+      "updated_at": "2020-01-05 13:42:30.480041",
+      "url": "https://api.chucknorris.io/jokes/pMJYxJZfTsC6UNx5OI9pAg",
+      "value": "the idea for the movie SAW was based off of the accounts of people who went into Chuck Norris' room when he was a kid."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:30.480041",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "E1j0zUo0Qu6CxipghyLQeQ",
+      "updated_at": "2020-01-05 13:42:30.480041",
+      "url": "https://api.chucknorris.io/jokes/E1j0zUo0Qu6CxipghyLQeQ",
+      "value": "the movie \"contagion\" is a movie about what would happen if Chuck Norris ever to sneezed."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:30.730109",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "EFBAluZrQyicgQtAaDa7jQ",
+      "updated_at": "2020-01-05 13:42:30.730109",
+      "url": "https://api.chucknorris.io/jokes/EFBAluZrQyicgQtAaDa7jQ",
+      "value": "There are 5 rules that can be applied to almost every Chuck Norris movie. Rule 1: Chuck Norris never reloads Rule 2: Chuck Norris always hits first Rule 3: You can't run or hide from Chuck Norris Rule 4: Everything he touches becomes a weapon Rule 5: Chuck Norris never misses his targets"
+    },
+    {
+      "categories": [
+        "explicit"
+      ],
+      "created_at": "2020-01-05 13:42:20.568859",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "o6hnjjOITzehqLHbSWS8hQ",
+      "updated_at": "2020-03-08 16:38:30.063749",
+      "url": "https://api.chucknorris.io/jokes/o6hnjjOITzehqLHbSWS8hQ",
+      "value": "Late at night, Chuck Norris was once walking back home alone after watching a Chuck Norris movie. A mugger approached him from the back, tapped on his shoulder and said \"Hey, gimme your money!\". Chuck Norris slowly turned around, paused for a while and gave the mugger a sarcastic smile. He then proceeded to rape the mugger anally, crush his skull, break his spine and killed him in a fraction of a second. Chuck Norris then brought the mugger back to life and then broke each of his limbs, eviscerated the mugger's gut, ate the mugger's still beating heart and infected him with AIDS, killing the unfortunate mugger once again. Chuck Norris then brough the mugger to life yet again for the second time, only to give the mugger a final fatal roundhous kick to his face killing the man and his soul at the same time. Chuck Norris then threw his packed wallet at the remains of his victim and said \"Do not tap on my shoulders ever again\", and continued to walk home slowly."
+    }
+  ]
+}
